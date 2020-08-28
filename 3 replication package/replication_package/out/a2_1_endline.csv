@@ -1,0 +1,1209 @@
+varnames,varlabs,t1,sig1_1,sig5_1,sig10_1
+"s3_1","(Cumin) What was the most important factor in determining which seed you used?",1.249312,0,0,0
+"s3_3","(Cumin) Did you solicit or receive any advice on cumin seeds?",.3980317,0,0,0
+"s3_41","(Cumin) What was the most important source of seed advice? - Source 1",3.230751,1,1,1
+"s3_42","(Cumin) What was the most important source of seed advice? - Source 2",.1795821,0,0,0
+"s3_5","(Cumin) Did you purchase or reuse cumin seeds?",.660082,0,0,0
+"s3_9","(Cumin) Did you treat your seeds before planting?",.944225,0,0,0
+"s3_10a","(Cumin) How did you treat your seeds? - Fungicides",1.0402,0,0,0
+"s3_10b","(Cumin) How did you treat your seeds? - Pesticides",1.944084,0,0,1
+"s3_10c","(Cumin) How did you treat your seeds? - Biological Method",.4495955,0,0,0
+"s3_10d1","(Cumin) How did you treat your seeds? - Other 1",.0059118,0,0,0
+"s3_11","(Cumin) In last Rabi, did you use the broadcasting method for planting or did yo",.8257804,0,0,0
+"s3_12_inch","(Cumin) What was the spacing between the seeds in the same row? - In inches",.1242313,0,0,0
+"s3_12_999","(Cumin) What was the spacing between the seeds in the same row? - Don't know",.4495955,0,0,0
+"s3_1_factor_1","(Cumin) Was low_price the most important factor in determining which cumin seed ",1.414867,0,0,0
+"s3_1_factor_2","(Cumin) Was pest_resistence the most important factor in determining which cumin",.9726295,0,0,0
+"s3_1_factor_3","(Cumin) Was safe_yield the most important factor in determining which cumin seed",2.467931,0,1,1
+"s3_1_factor_4","(Cumin) Was high_yield the most important factor in determining which cumin seed",.1386678,0,0,0
+"s3_1_factor_5","(Cumin) Was few_inputs the most important factor in determining which cumin seed",.9997672,0,0,0
+"s3_1_factor_6","(Cumin) Was water_requirements the most important factor in determining which cu",.7034969,0,0,0
+"s3_1_factor_7","(Cumin) Was what_friends_use the most important factor in determining which cumi",1.977133,0,1,1
+"s3_1_factor_8","(Cumin) Was availability the most important factor in determining which cumin se",1.414867,0,0,0
+"s3_1_factor_9","(Cumin) Was soil_fertility the most important factor in determining which cumin ",.2486439,0,0,0
+"s3_1_factor_10","(Cumin) Was gen_advice the most important factor in determining which cumin seed",1.15545,0,0,0
+"s3_1_factor_888","(Cumin) Was other the most important factor in determining which cumin seed you ",1.210725,0,0,0
+"s3_1_factor_999","(Cumin) Was don't_know the most important factor in determining which cumin seed",1.000468,0,0,0
+"s3_41_1","(Cumin Seeds 1)Is your most imp source past experience?",.9997672,0,0,0
+"s3_41_3","(Cumin Seeds 1)Is your most imp source cell phone based info?",4.777849,1,1,1
+"s3_41_7","(Cumin Seeds 1)Is your most imp source other farmers?",1.374208,0,0,0
+"s3_41_8","(Cumin Seeds 1)Is your most imp source agro shops?",1.438108,0,0,0
+"s3_42_1","(Cumin Seeds 2)Is your most imp source past experience?",.6366248,0,0,0
+"s3_42_7","(Cumin Seeds 2)Is your most imp source other farmers?",.0048202,0,0,0
+"s3_42_8","(Cumin Seeds 2)Is your most imp source agro shops?",.3741975,0,0,0
+"s3_source_1","(Cumin Seeds) Is your most imp source past_experience?",.3061334,0,0,0
+"s3_source_3","(Cumin Seeds) Is your most imp source cell_phone_info?",4.777849,1,1,1
+"s3_source_7","(Cumin Seeds) Is your most imp source other_farmers?",1.271027,0,0,0
+"s3_source_8","(Cumin Seeds) Is your most imp source agro_shops?",1.216284,0,0,0
+"s3_5_seeds_1","(Cumin) Did you purchase_new seeds last Rabi?",.5202615,0,0,0
+"s3_5_seeds_2","(Cumin) Did you reuse_old seeds last Rabi?",.1662761,0,0,0
+"s3_5_seeds_3","(Cumin) Did you purchase&reuse seeds last Rabi?",.4495955,0,0,0
+"s3_total_cost","(Cumin) Total cost of cumin seeds in R'10-11",.3061852,0,0,0
+"s3_tot_q_purchased","(Cumin) Total qty of cumin seeds purchased in R'10-11, Kilos",.1185645,0,0,0
+"s3_tot_q_used","(Cumin) Total qty of cumin seeds used in R'10-11, Kilos",.7529862,0,0,0
+"s3_11_method_1","(Cumin) Did you use the broadcasting method last Rabi for planting?",.1428565,0,0,0
+"s3_11_method_2","(Cumin) Did you plant cumin seeds in rows last Rabi?",.8107685,0,0,0
+"s3_seed_1","(Cumin Seeds) Did you purchase GC_1?",.6366248,0,0,0
+"s3_seed_2","(Cumin Seeds) Did you purchase GC_2?",1.297207,0,0,0
+"s3_seed_3","(Cumin Seeds) Did you purchase GC_3?",.9997672,0,0,0
+"s3_seed_4","(Cumin Seeds) Did you purchase GC_4?",.0279882,0,0,0
+"s3_seed_5","(Cumin Seeds) Did you purchase Rajasthan_Cumin?",.9327928,0,0,0
+"s3_seed_6","(Cumin Seeds) Did you purchase Western?",.8547635,0,0,0
+"s3_seeduse_1","(Cumin Seeds) Did you use GC_1?",.5061595,0,0,0
+"s3_seeduse_2","(Cumin Seeds) Did you use GC_2?",.8910164,0,0,0
+"s3_seeduse_3","(Cumin Seeds) Did you use GC_3?",.9997672,0,0,0
+"s3_seeduse_4","(Cumin Seeds) Did you use GC_4?",.0829748,0,0,0
+"s3_seeduse_5","(Cumin Seeds) Did you use Rajasthan_Cumin?",.6589105,0,0,0
+"s3_seeduse_6","(Cumin Seeds) Did you use Western?",.8547635,0,0,0
+"s3_1_kilo","(Cumin Seeds) How many kilos of GC_1 seeds did you purchase?",.0377278,0,0,0
+"s3_2_kilo","(Cumin Seeds) How many kilos of GC_2 seeds did you purchase?",.4137418,0,0,0
+"s3_4_kilo","(Cumin Seeds) How many kilos of GC_4 seeds did you purchase?",.0244468,0,0,0
+"s3_5_kilo","(Cumin Seeds) How many kilos of Rajasthan_Cumin seeds did you purchase?",.7248248,0,0,0
+"s3_6_kilo","(Cumin Seeds) How many kilos of Western seeds did you purchase?",.0886611,0,0,0
+"s3_1_totalrs","(Cumin Seeds) Total spent on GC_1 seeds?",1.03402,0,0,0
+"s3_2_totalrs","(Cumin Seeds) Total spent on GC_2 seeds?",.0868078,0,0,0
+"s3_3_totalrs","(Cumin Seeds) Total spent on GC_3 seeds?",.9997672,0,0,0
+"s3_4_totalrs","(Cumin Seeds) Total spent on GC_4 seeds?",.0912707,0,0,0
+"s3_5_totalrs","(Cumin Seeds) Total spent on Rajasthan_Cumin seeds?",.9785192,0,0,0
+"s3_6_totalrs","(Cumin Seeds) Total spent on Western seeds?",.2753482,0,0,0
+"s3_4_pktqtyused","(Cumin Seeds) How many kilos of GC_4 seeds/packet?",.9418821,0,0,0
+"s3_1_qtyused","(Cumin Seeds) Total kilos of GC_1 seeds used.",.0197905,0,0,0
+"s3_2_qtyused","(Cumin Seeds) Total kilos of GC_2 seeds used.",.3368267,0,0,0
+"s3_3_qtyused","(Cumin Seeds) Total kilos of GC_3 seeds used.",.9997672,0,0,0
+"s3_4_qtyused","(Cumin Seeds) Total kilos of GC_4 seeds used.",.2715564,0,0,0
+"s3_5_qtyused","(Cumin Seeds) Total kilos of Rajasthan_Cumin seeds used.",.7992343,0,0,0
+"s3_6_qtyused","(Cumin Seeds) Total kilos of Western seeds used.",.3869818,0,0,0
+"rec3_seed_p","Purchased a recommended seed variety for wheat",.0279882,0,0,0
+"rec3_seed_u","Used a recommended seed variety for wheat",.0829748,0,0,0
+"rec3_seeds_kg","Quantity of recommended seeds purchased",.0244468,0,0,0
+"rec3_seeds_cost","Total spent on recommended seeds",.0912707,0,0,0
+"s2_1","(Wheat) What was the most important factor in determining which seed you used?",.5152355,0,0,0
+"s2_3","(Wheat) Did you solicit or receive any advice on wheat seeds?",.2767113,0,0,0
+"s2_41","(Wheat) What was the most important source of seed advice? - Source 1",1.061522,0,0,0
+"s2_42","(Wheat) What was the most important source of seed advice? - Source 2",.493053,0,0,0
+"s2_5","(Wheat) Did you purchase or reuse wheat seeds?",1.068622,0,0,0
+"s2_9","(Wheat) Did you treat your seeds before planting?",.460275,0,0,0
+"s2_10a","(Wheat) How did you treat your seeds? - Fungicides",.5061595,0,0,0
+"s2_10b","(Wheat) How did you treat your seeds? - Pesticides",.4495955,0,0,0
+"s2_10d1","(Wheat) How did you treat your seeds? - Other 1",.4421881,0,0,0
+"s2_11","(Wheat) In last Rabi, did you use the broadcasting method for planting or did yo",.659435,0,0,0
+"s2_12_inch","(Wheat) What was the spacing between the seeds in the same row? - In inches",.2375973,0,0,0
+"s2_12_999","(Wheat) What was the spacing between the seeds in the same row? - Don't know",1.506776,0,0,0
+"s2_1_factor_1","(Wheat) Was low_price the most important factor in determining which seed you us",.4495955,0,0,0
+"s2_1_factor_2","(Wheat) Was pest_resistence the most important factor in determining which seed ",.5300928,0,0,0
+"s2_1_factor_3","(Wheat) Was safe_yield the most important factor in determining which seed you u",1.262848,0,0,0
+"s2_1_factor_4","(Wheat) Was high_yield the most important factor in determining which seed you u",.3825657,0,0,0
+"s2_1_factor_6","(Wheat) Was water_requirements the most important factor in determining which se",.4340716,0,0,0
+"s2_1_factor_7","(Wheat) Was what_friends_use the most important factor in determining which seed",.0048202,0,0,0
+"s2_1_factor_8","(Wheat) Was availability the most important factor in determining which seed you",.8493668,0,0,0
+"s2_1_factor_9","(Wheat) Was soil_fertility the most important factor in determining which seed y",.3741975,0,0,0
+"s2_1_factor_10","(Wheat) Was gen_advice the most important factor in determining which seed you u",.7034969,0,0,0
+"s2_1_factor_888","(Wheat) Was other the most important factor in determining which seed you used?",1.526292,0,0,0
+"s2_41_1","(Wheat Seeds 1)Is your most imp source past experience?",.9969785,0,0,0
+"s2_41_3","(Wheat Seeds 1)Is your most imp source cell phone based info?",1.944084,0,0,1
+"s2_41_7","(Wheat Seeds 1)Is your most imp source other farmers?",1.110641,0,0,0
+"s2_41_8","(Wheat Seeds 1)Is your most imp source agro shops?",.9969785,0,0,0
+"s2_42_7","(Wheat Seeds 2)Is your most imp source other farmers?",.4495955,0,0,0
+"s2_42_8","(Wheat Seeds 2)Is your most imp source agro shops?",.3061334,0,0,0
+"s2_source_1","(Wheat Seeds) Is your most imp source past_experience?",.9969785,0,0,0
+"s2_source_3","(Wheat Seeds) Is your most imp source cell_phone_info?",1.944084,0,0,1
+"s2_source_7","(Wheat Seeds) Is your most imp source other_farmers?",1.192708,0,0,0
+"s2_source_8","(Wheat Seeds) Is your most imp source agro_shops?",.4421881,0,0,0
+"s2_5_seeds_1","(Wheat) Did you purchase_new seeds last Rabi?",.9322917,0,0,0
+"s2_5_seeds_2","(Wheat) Did you reuse_old seeds last Rabi?",1.951859,0,0,1
+"s2_5_seeds_3","(Wheat) Did you purchase&reuse seeds last Rabi?",1.416856,0,0,0
+"s2_total_cost","(Wheat) Total cost of wheat seeds in R'10-11",.911356,0,0,0
+"s2_tot_q_purchased","(Wheat) Total qty of wheat seeds purchased in R'10-11, Kilos",.3501891,0,0,0
+"s2_tot_q_used","(Wheat) Total qty of wheat seeds used in R'10-11, Kilos",1.070594,0,0,0
+"s2_11_method_1","(Wheat) Did you use the broadcasting method last Rabi for planting?",.137742,0,0,0
+"s2_11_method_2","(Wheat) Did you plant seed in rows last Rabi?",.5968664,0,0,0
+"s2_seed_1","(Wheat Seeds) Did you purchase GW_496?",2.050347,0,1,1
+"s2_seed_2","(Wheat Seeds) Did you purchase GW_322?",1.000468,0,0,0
+"s2_seed_4","(Wheat Seeds) Did you purchase GW_273?",.9997672,0,0,0
+"s2_seed_5","(Wheat Seeds) Did you purchase LOK_1?",1.149693,0,0,0
+"s2_seed_6","(Wheat Seeds) Did you purchase Sonalika?",.3779225,0,0,0
+"s2_seed_7","(Wheat Seeds) Did you purchase Tukda/Tukri?",.0204883,0,0,0
+"s2_seeduse_1","(Wheat Seeds) Did you use GW_496?",.8646674,0,0,0
+"s2_seeduse_2","(Wheat Seeds) Did you use GW_322?",1.000468,0,0,0
+"s2_seeduse_4","(Wheat Seeds) Did you use GW_273?",.9997672,0,0,0
+"s2_seeduse_5","(Wheat Seeds) Did you use LOK_1?",.3158826,0,0,0
+"s2_seeduse_6","(Wheat Seeds) Did you use Sonalika?",.262092,0,0,0
+"s2_seeduse_7","(Wheat Seeds) Did you use Tukda/Tukri?",.4213527,0,0,0
+"s2_1_kilo","(Wheat Seeds) How many kilos of GW_496 seeds did you purchase?",.7794306,0,0,0
+"s2_2_kilo","(Wheat Seeds) How many kilos of GW_322 seeds did you purchase?",1.000468,0,0,0
+"s2_4_kilo","(Wheat Seeds) How many kilos of GW_273 seeds did you purchase?",.9997672,0,0,0
+"s2_5_kilo","(Wheat Seeds) How many kilos of LOK_1 seeds did you purchase?",.2291121,0,0,0
+"s2_6_kilo","(Wheat Seeds) How many kilos of Sonalika seeds did you purchase?",.459501,0,0,0
+"s2_7_kilo","(Wheat Seeds) How many kilos of Tukda/Tukri seeds did you purchase?",.0793597,0,0,0
+"s2_1_totalrskilo","(Wheat Seeds) How much did you spend on all the kilos of GW_496 seeds?",2.1385,0,1,1
+"s2_2_totalrskilo","(Wheat Seeds) How much did you spend on all the kilos of GW_322 seeds?",1.000468,0,0,0
+"s2_5_totalrskilo","(Wheat Seeds) How much did you spend on all the kilos of LOK_1 seeds?",.0326195,0,0,0
+"s2_6_totalrskilo","(Wheat Seeds) How much did you spend on all the kilos of Sonalika seeds?",.0103785,0,0,0
+"s2_7_totalrskilo","(Wheat Seeds) How much did you spend on all the kilos of Tukda/Tukri seeds?",1.016127,0,0,0
+"s2_1_pktqtyused","(Wheat Seeds) How many kilos of GW_496 seeds/packet?",.177236,0,0,0
+"s2_4_pktqtyused","(Wheat Seeds) How many kilos of GW_273 seeds/packet?",.9997672,0,0,0
+"s2_5_pktqtyused","(Wheat Seeds) How many kilos of LOK_1 seeds/packet?",1.005453,0,0,0
+"s2_6_pktqtyused","(Wheat Seeds) How many kilos of Sonalika seeds/packet?",.7262542,0,0,0
+"s2_7_pktqtyused","(Wheat Seeds) How many kilos of Tukda/Tukri seeds/packet?",.256258,0,0,0
+"s2_1_qtyused","(Wheat Seeds) Total kilos of GW_496 seeds used.",.9680907,0,0,0
+"s2_2_qtyused","(Wheat Seeds) Total kilos of GW_322 seeds used.",1.000468,0,0,0
+"s2_4_qtyused","(Wheat Seeds) Total kilos of GW_273 seeds used.",.9997672,0,0,0
+"s2_5_qtyused","(Wheat Seeds) Total kilos of LOK_1 seeds used.",1.239258,0,0,0
+"s2_6_qtyused","(Wheat Seeds) Total kilos of Sonalika seeds used.",.3695871,0,0,0
+"s2_7_qtyused","(Wheat Seeds) Total kilos of Tukda/Tukri seeds used.",.5571418,0,0,0
+"rec2_seeds_p","Number of recommended seed varieties purchased for wheat",.0259333,0,0,0
+"rec2_seed_p","Purchased a recommended seed variety for wheat",.0265651,0,0,0
+"rec2_seeds_u","Number of recommended seed varieties used for wheat",.59627,0,0,0
+"rec2_seed_u","Used a recommended seed variety for wheat",.6242792,0,0,0
+"rec2_seeds_kg","Quantity of recommended seeds purchased",.2228804,0,0,0
+"rec2_seeds_cost","Total spent on recommended seeds",1.015775,0,0,0
+"s1_1","(Cotton) What was the most important factor in determining which seed you used?",.2048199,0,0,0
+"s1_3","(Cotton) Did you solicit or receive any advice on cotton seeds?",1.607801,0,0,0
+"s1_41","(Cotton) What was the most important source of seed advice? - Source 1",4.547172,1,1,1
+"s1_42","(Cotton) What was the most important source of seed advice? - Source 2",2.947116,1,1,1
+"s1_5","(Cotton) Did you purchase or reuse cotton seeds?",.2401351,0,0,0
+"s1_9","(Cotton) Did you treat your seeds before planting?",.6503333,0,0,0
+"s1_10a","(Cotton) How did you treat your seeds? - Fungicides",2.241783,0,1,1
+"s1_10b","(Cotton) How did you treat your seeds? - Pesticides",.3741975,0,0,0
+"s1_10d1","(Cotton) How did you treat your seeds? - Other 1",.3741975,0,0,0
+"s1_11_inch","(Cotton) At what depth did you sow the cotton seeds? - In inches",.801423,0,0,0
+"s1_12_inch","(Cotton) What was the spacing between the seeds in the same row? - In inches",2.342081,0,1,1
+"s1_13_inch","(Cotton) What was the spacing between the rows? - In inches",.4843208,0,0,0
+"s1_13_999","(Cotton) What was the spacing between the rows? - Don't know",1.000468,0,0,0
+"s1_1_factor_1","(Cotton) Was low_price the most important factor in determining which seed you u",.0034036,0,0,0
+"s1_1_factor_2","(Cotton) Was pest_resistence the most important factor in determining which seed",.4060695,0,0,0
+"s1_1_factor_3","(Cotton) Was safe_yield the most important factor in determining which seed you ",.6917897,0,0,0
+"s1_1_factor_4","(Cotton) Was high_yield the most important factor in determining which seed you ",1.063856,0,0,0
+"s1_1_factor_5","(Cotton) Was few_inputs the most important factor in determining which seed you ",2.003713,0,1,1
+"s1_1_factor_6","(Cotton) Was water_requirements the most important factor in determining which s",2.302615,0,1,1
+"s1_1_factor_7","(Cotton) Was what_friends_use the most important factor in determining which see",.0933421,0,0,0
+"s1_1_factor_8","(Cotton) Was availability the most important factor in determining which seed yo",.9969785,0,0,0
+"s1_1_factor_9","(Cotton) Was soil_fertilizer the most important factor in determining which seed",.6283519,0,0,0
+"s1_1_factor_10","(Cotton) Was gen_advice the most important factor in determining which seed you ",.6171141,0,0,0
+"s1_1_factor_888","(Cotton) Was other the most important factor in determining which seed you used?",.5502723,0,0,0
+"s1_1_factor_999","(Cotton) Was don't_know the most important factor in determining which seed you ",.9026012,0,0,0
+"s1_41_1","(Cotton Seeds 1) Is your most imp source past experience?",.5300928,0,0,0
+"s1_41_2","(Cotton Seeds 1) Is your most imp source TV program?",.9997672,0,0,0
+"s1_41_3","(Cotton Seeds 1) Is your most imp source cell phone based info?",7.541009,1,1,1
+"s1_41_6","(Cotton Seeds 1) Is your most imp source NGOs?",1.416856,0,0,0
+"s1_41_7","(Cotton Seeds 1) Is your most imp source other farmers?",.316838,0,0,0
+"s1_41_8","(Cotton Seeds 1) Is your most imp source agro shops?",1.788556,0,0,1
+"s1_42_1","(Cotton Seeds 2) Is your most imp source past experience?",.2414309,0,0,0
+"s1_42_3","(Cotton Seeds 2) Is your most imp source cell phone based info?",3.182575,1,1,1
+"s1_42_6","(Cotton Seeds 2) Is your most imp source NGOs?",1.000488,0,0,0
+"s1_42_7","(Cotton Seeds 2) Is your most imp source other farmers?",2.589581,1,1,1
+"s1_42_8","(Cotton Seeds 2) Is your most imp source agro shops?",.6459221,0,0,0
+"s1_source_1","(Cotton Seeds) Is your most imp source past_experience?",.1727267,0,0,0
+"s1_source_2","(Cotton Seeds) Is your most imp source TV?",.9997672,0,0,0
+"s1_source_3","(Cotton Seeds) Is your most imp source cell_phone_info?",8.284837,1,1,1
+"s1_source_6","(Cotton Seeds) Is your most imp source NGOs?",1.737722,0,0,1
+"s1_source_7","(Cotton Seeds) Is your most imp source other_farmers?",1.377552,0,0,0
+"s1_source_8","(Cotton Seeds) Is your most imp source agro_shops?",1.940291,0,0,1
+"s1_5_seeds_1","(Cotton) Did you purchase_new seeds last Kharif?",.6088191,0,0,0
+"s1_5_seeds_2","(Cotton) Did you reuse_old seeds last Kharif?",1.506776,0,0,0
+"s1_5_seeds_3","(Cotton) Did you purchase&reuse seeds last Kharif?",.0048202,0,0,0
+"s1_total_cost","(Cotton) Total cost of cotton seeds in K'11",1.873526,0,0,1
+"s1_tot_q_purchased","(Cotton) Total qty of cotton seeds purchased in K'11, Kilos",.7450587,0,0,0
+"s1_tot_q_used","(Cotton) Total qty of cotton seeds used in K'11, Kilos",1.071862,0,0,0
+"s1_seed_1","(Cotton Seeds) Did you purchase Vikram?",1.856707,0,0,1
+"s1_seed_2","(Cotton Seeds) Did you purchase Rasi?",.2859954,0,0,0
+"s1_seed_3","(Cotton Seeds) Did you purchase Ajit?",.2133354,0,0,0
+"s1_seed_4","(Cotton Seeds) Did you purchase Navbharat?",.2307854,0,0,0
+"s1_seed_5","(Cotton Seeds) Did you purchase Tulsi?",.7665994,0,0,0
+"s1_seed_6","(Cotton Seeds) Did you purchase Ankur?",.7780779,0,0,0
+"s1_seed_7","(Cotton Seeds) Did you purchase Nath?",1.003488,0,0,0
+"s1_seed_9","(Cotton Seeds) Did you purchase Ganga_kaveri?",.7219844,0,0,0
+"s1_seeduse_1","(Cotton Seeds) Did you use Vikram?",1.986609,0,1,1
+"s1_seeduse_2","(Cotton Seeds) Did you use Rasi?",.2841397,0,0,0
+"s1_seeduse_3","(Cotton Seeds) Did you use Ajit?",.3111981,0,0,0
+"s1_seeduse_4","(Cotton Seeds) Did you use Navbharat?",.4204032,0,0,0
+"s1_seeduse_5","(Cotton Seeds) Did you use Tulsi?",.7665994,0,0,0
+"s1_seeduse_6","(Cotton Seeds) Did you use Ankur?",.7780779,0,0,0
+"s1_seeduse_7","(Cotton Seeds) Did you use Nath?",1.003488,0,0,0
+"s1_seeduse_9","(Cotton Seeds) Did you use Ganga_kaveri?",.7219844,0,0,0
+"s1_1_kilo","(Cotton Seeds) How many kilos of Vikram seeds did you purchase?",1.513765,0,0,0
+"s1_2_kilo","(Cotton Seeds) How many kilos of Rasi seeds did you purchase?",.9798887,0,0,0
+"s1_3_kilo","(Cotton Seeds) How many kilos of Ajit seeds did you purchase?",1.502389,0,0,0
+"s1_4_kilo","(Cotton Seeds) How many kilos of Navbharat seeds did you purchase?",1.048671,0,0,0
+"s1_5_kilo","(Cotton Seeds) How many kilos of Tulsi seeds did you purchase?",1.009651,0,0,0
+"s1_6_kilo","(Cotton Seeds) How many kilos of Ankur seeds did you purchase?",.4750846,0,0,0
+"s1_7_kilo","(Cotton Seeds) How many kilos of Nath seeds did you purchase?",1.003488,0,0,0
+"s1_9_kilo","(Cotton Seeds) How many kilos of Ganga_kaveri seeds did you purchase?",2.240798,0,1,1
+"s1_1_totalrs","(Cotton Seeds) Total spent on Vikram seeds?",1.625586,0,0,0
+"s1_2_totalrs","(Cotton Seeds) Total spent on Rasi seeds?",.4885984,0,0,0
+"s1_3_totalrs","(Cotton Seeds) Total spent on Ajit seeds?",.9167692,0,0,0
+"s1_4_totalrs","(Cotton Seeds) Total spent on Navbharat seeds?",.7468356,0,0,0
+"s1_5_totalrs","(Cotton Seeds) Total spent on Tulsi seeds?",.8004147,0,0,0
+"s1_6_totalrs","(Cotton Seeds) Total spent on Ankur seeds?",.4244078,0,0,0
+"s1_7_totalrs","(Cotton Seeds) Total spent on Nath seeds?",1.067888,0,0,0
+"s1_9_totalrs","(Cotton Seeds) Total spent on Ganga_kaveri seeds?",1.729064,0,0,1
+"s1_1_pktqtyused","(Cotton Seeds) How many kilos of Vikram seeds/packet?",2.197303,0,1,1
+"s1_2_pktqtyused","(Cotton Seeds) How many kilos of Rasi seeds/packet?",.2158723,0,0,0
+"s1_3_pktqtyused","(Cotton Seeds) How many kilos of Ajit seeds/packet?",.7340789,0,0,0
+"s1_4_pktqtyused","(Cotton Seeds) How many kilos of Navbharat seeds/packet?",1.126517,0,0,0
+"s1_5_pktqtyused","(Cotton Seeds) How many kilos of Tulsi seeds/packet?",1.072275,0,0,0
+"s1_6_pktqtyused","(Cotton Seeds) How many kilos of Ankur seeds/packet?",.6763191,0,0,0
+"s1_7_pktqtyused","(Cotton Seeds) How many kilos of Nath seeds/packet?",1.003488,0,0,0
+"s1_9_pktqtyused","(Cotton Seeds) How many kilos of Ganga_kaveri seeds/packet?",.6979885,0,0,0
+"s1_1_qtyused","(Cotton Seeds) Total kilos of Vikram seeds used.",1.600119,0,0,0
+"s1_2_qtyused","(Cotton Seeds) Total kilos of Rasi seeds used.",.4324853,0,0,0
+"s1_3_qtyused","(Cotton Seeds) Total kilos of Ajit seeds used.",1.475899,0,0,0
+"s1_4_qtyused","(Cotton Seeds) Total kilos of Navbharat seeds used.",1.449961,0,0,0
+"s1_5_qtyused","(Cotton Seeds) Total kilos of Tulsi seeds used.",1.260656,0,0,0
+"s1_6_qtyused","(Cotton Seeds) Total kilos of Ankur seeds used.",.5310534,0,0,0
+"s1_7_qtyused","(Cotton Seeds) Total kilos of Nath seeds used.",1.003488,0,0,0
+"s1_9_qtyused","(Cotton Seeds) Total kilos of Ganga_kaveri seeds used.",2.221707,0,1,1
+"rec1_seeds_p","Number of recommended seed varieties purchased for cotton",1.541423,0,0,0
+"rec1_seed_p","Purchased a recommended seed variety for cotton",.8314753,0,0,0
+"rec1_seeds_u","Number of recommended seed varieties used for cotton",1.709332,0,0,1
+"rec1_seed_u","Used a recommended seed variety for cotton",1.27671,0,0,0
+"rec1_seeds_kg","Quantity of recommended seeds purchased",1.344401,0,0,0
+"rec1_seeds_cost","Total spent on recommended seeds",2.43265,0,1,1
+"p3_0","(Cumin) Did you solicit or receive any advice for cumin pesticides in R'11?",.9602989,0,0,0
+"p3_11","(Cumin) What were the two most important sources of advice?- First",3.701215,1,1,1
+"p3_12","(Cumin) What were the two most important sources of advice?- Second",1.598771,0,0,0
+"p3_2","(Cumin) Did you use any pesticides with your cumin crop?",.4680055,0,0,0
+"p3_71_3","(Cumin) Did you purchase -monocortophos?",.4408064,0,0,0
+"p3_71_3_qty","(Cumin) What was the qty of mono purchased in R'11- Liters?",.178279,0,0,0
+"p3_71_3_cost","(Cumin) What was the total cost in Rs. of pesticide monocortophos?",1.23019,0,0,0
+"p3_71_3_use","(Cumin) Did you use monocortophos",.5391626,0,0,0
+"p3_71_3_use_qty","(Cumin) How much of mono did you use in R'11- Liters?",.4881693,0,0,0
+"p3_71_6","(Cumin) Did you purchase -phosphamidon?",.1018005,0,0,0
+"p3_71_6_qty","(Cumin) What was the qty of phosphamidon purchased in R'11- Liters?",.2625208,0,0,0
+"p3_71_6_cost","(Cumin) What was the total cost in Rs. of pesticide phosphamidon?",.4521274,0,0,0
+"p3_71_6_use","(Cumin) Did you use phosphamidon",.2239158,0,0,0
+"p3_71_6_use_qty","(Cumin) How much of phosphamidon did you use in R'11- Liters?",.2820843,0,0,0
+"p3_71_7","(Cumin) Did you purchase -dimethoate?",.5726582,0,0,0
+"p3_71_7_qty","(Cumin) What was the qty of dimethoate purchased in R'11- Liters?",.1201412,0,0,0
+"p3_71_7_cost","(Cumin) What was the total cost in Rs. of pesticide dimethoate?",.082675,0,0,0
+"p3_71_7_use","(Cumin) Did you use dimethoate",1.0402,0,0,0
+"p3_71_7_use_qty","(Cumin) How much of dimethoate did you use in R'11- Liters?",.0270159,0,0,0
+"p3_71_8","(Cumin) Did you purchase -imida?",.1922577,0,0,0
+"p3_71_8_qty","(Cumin) What was the qty of imida purchased in R'11- Liters?",1.084608,0,0,0
+"p3_71_8_cost","(Cumin) What was the total cost in Rs. of pesticide imida?",1.571713,0,0,0
+"p3_71_8_use","(Cumin) Did you use imida",.2938641,0,0,0
+"p3_71_8_use_qty","(Cumin) How much of imida did you use in R'11- Liters?",1.097063,0,0,0
+"p3_71_9","(Cumin) Did you purchase -acetamaprid?",.5957212,0,0,0
+"p3_71_9_qty","(Cumin) What was the qty of acetamaprid purchased in R'11- Kg?",.5974698,0,0,0
+"p3_71_9_cost","(Cumin) What was the total cost in Rs. of pesticide acetamaprid?",.9879597,0,0,0
+"p3_71_9_use","(Cumin) Did you use acetamaprid",.3154632,0,0,0
+"p3_71_9_use_qty","(Cumin) How much of acetamaprid did you use in R'11- Kg?",.4036098,0,0,0
+"p3_71_10","(Cumin) Did you purchase -acephat?",.3983935,0,0,0
+"p3_71_10_qty","(Cumin) What was the qty of acephat purchased in R'11- Kg?",.114172,0,0,0
+"p3_71_10_cost","(Cumin) What was the total cost in Rs. of pesticide acephat?",.140457,0,0,0
+"p3_71_10_use","(Cumin) Did you use acephat",.51632,0,0,0
+"p3_71_10_use_qty","(Cumin) How much of acephat did you use in R'11- Kg?",.398549,0,0,0
+"p3_71_16","(Cumin) Did you purchase -mancozeb?",.3573023,0,0,0
+"p3_71_16_qty","(Cumin) What was the qty of mancozeb purchased in R'11- Kg?",.1770312,0,0,0
+"p3_71_16_cost","(Cumin) What was the total cost in Rs. of pesticide mancozeb?",.1831174,0,0,0
+"p3_71_16_use","(Cumin) Did you use mancozeb",.224954,0,0,0
+"p3_71_16_use_qty","(Cumin) How much of mancozeb did you use in R'11- Kg?",.1774672,0,0,0
+"p3_8c1","(Cumin) Did you purchase -carbendazim?",.9969785,0,0,0
+"p3_8c1_qty","(Cumin) What was the qty of Carbendazim purchased in R'11- Kg?",1.667847,0,0,1
+"p3_8c1_rstotal","(Cumin) What was the total cost in Rs. of pesticide carbendazim?",1.292433,0,0,0
+"p3_8c1_qtyused","(Cumin) How much of Carbendazim did you use in R'11- Kg?",1.667847,0,0,1
+"p3_71_20","(Cumin) Did you purchase -sulphur?",.2420515,0,0,0
+"p3_71_20_qty","(Cumin) What was the qty of sulphur purchased in R'11- Kg?",.8519467,0,0,0
+"p3_71_20_cost","(Cumin) What was the total cost in Rs. of pesticide sulphur?",.5358406,0,0,0
+"p3_71_20_use","(Cumin) Did you use sulphur",.2420515,0,0,0
+"p3_71_20_use_qty","(Cumin) How much of sulphur did you use in R'11- Kg?",.8389202,0,0,0
+"p3_9ta","(Cumin) Did you use biological method: installation_pheromone_trap?",1.000468,0,0,0
+"p3_9tb","(Cumin) Did you use biological method: release_chrysoperia?",.3741975,0,0,0
+"p3_9tc","(Cumin) Did you use biological method: spray_neem?",.0034036,0,0,0
+"p3_10_apps","(Cumin) What is the number of applications of of pesticides last Rabi?",.7853587,0,0,0
+"p3_10_hhtotal","(Cumin) What is the total HH labor days last Rabi?",.428638,0,0,0
+"p3_10_hiredtotal","(Cumin) What is the total hired labor days last Rabi?",1.609802,0,0,0
+"p3_10_wage","(Cumin) What is the daily wage for the hired help?",.2352017,0,0,0
+"p3_10_totalcost","(Cumin) What is the total hired labor cost last Rabi?",1.393088,0,0,0
+"p3_11_1","(Cumin Pesticides 1) Is your most imp source past experience?",.9997672,0,0,0
+"p3_11_2","(Cumin Pesticides 1) Is your most imp source TV program?",1.000468,0,0,0
+"p3_11_3","(Cumin Pesticides 1) Is your most imp source cell phone based info?",4.990267,1,1,1
+"p3_11_7","(Cumin Pesticides 1) Is your most imp source other farmers?",.5809251,0,0,0
+"p3_11_8","(Cumin Pesticides 1) Is your most imp source agro shops?",1.241428,0,0,0
+"p3_12_1","(Cumin Pesticides 2) Is your most imp source past experience?",.0034036,0,0,0
+"p3_12_3","(Cumin Pesticides 2) Is your most imp source cell phone based info?",1.734058,0,0,1
+"p3_12_7","(Cumin Pesticides 2) Is your most imp source other farmers?",.0059118,0,0,0
+"p3_12_8","(Cumin Pesticides 2) Is your most imp source agro shops?",.5300928,0,0,0
+"p3_source_1","(Cumin Pesticides) Is your most imp source past_experience?",.3741975,0,0,0
+"p3_source_2","(Cumin Pesticides) Is your most imp source TV?",1.000468,0,0,0
+"p3_source_3","(Cumin Pesticides) Is your most imp source cell_phone_info?",5.296274,1,1,1
+"p3_source_7","(Cumin Pesticides) Is your most imp source other_farmers?",.5033683,0,0,0
+"p3_source_8","(Cumin Pesticides) Is your most imp source agro_shops?",.9115787,0,0,0
+"p3_8c1_use","used carbendazim",.9930891,0,0,0
+"p2_0","(Wheat) Did you solicit or receive any advice for wheat pesticides in R'11?",.1782898,0,0,0
+"p2_11","(Wheat) What were the two most important sources of advice?- First",.3343501,0,0,0
+"p2_2","(Wheat) Did you use any pesticides with your wheat crop?",.1798031,0,0,0
+"p2_71_3","(Wheat) Did you purchase -monocortophos?",.156943,0,0,0
+"p2_71_3_qty","(Wheat) What was the qty of mono purchased in R'11- Liters?",.2670387,0,0,0
+"p2_71_3_cost","(Wheat) What was the total cost in Rs. of pesticide monocortophos?",.1691083,0,0,0
+"p2_71_3_use","(Wheat) Did you use monocortophos",.5854965,0,0,0
+"p2_71_3_use_qty","(Wheat) How much of mono did you use in R'11- Liters?",.1312753,0,0,0
+"p2_71_8","(Wheat) Did you purchase -imida?",1.414867,0,0,0
+"p2_71_8_qty","(Wheat) What was the qty of imida purchased in R'11- Liters?",1.032567,0,0,0
+"p2_71_8_cost","(Wheat) What was the total cost in Rs. of pesticide imida?",1.300188,0,0,0
+"p2_71_8_use","(Wheat) Did you use imida",2.003713,0,1,1
+"p2_71_8_use_qty","(Wheat) How much of imida did you use in R'11- Liters?",1.032567,0,0,0
+"p2_71_10","(Wheat) Did you purchase -acephat?",1.791439,0,0,1
+"p2_71_10_qty","(Wheat) What was the qty of acephat purchased in R'11- Kg?",1.972559,0,1,1
+"p2_71_10_cost","(Wheat) What was the total cost in Rs. of pesticide acephat?",2.173305,0,1,1
+"p2_71_10_use","(Wheat) Did you use acephat",1.895416,0,0,1
+"p2_71_10_use_qty","(Wheat) How much of acephat did you use in R'11- Kg?",1.880731,0,0,1
+"p2_9ta","(Wheat) Did you use biological method: installation_pheromone_trap?",.9997672,0,0,0
+"p2_9tb","(Wheat) Did you use biological method: release_chrysoperia?",.9997672,0,0,0
+"p2_9tc","(Wheat) Did you use biological method: spray_neem?",.9997672,0,0,0
+"p2_9td","(Wheat) Did you use biological method: release_trichogramma?",.9997672,0,0,0
+"p2_9te","(Wheat) Did you use biological method: spray_HNPV/SNPV?",.9997672,0,0,0
+"p2_9tf","(Wheat) Did you use biological method: Use_Tricoderma?",.9997672,0,0,0
+"p2_9tg","(Wheat) Did you use biological method: Install_Stickycards?",.9997672,0,0,0
+"p2_10_apps","(Wheat) What is the number of applications of of pesticides last Kharif?",.6653572,0,0,0
+"p2_10_hhtotal","(Wheat) What is the total HH labor days last Kharif?",.550392,0,0,0
+"p2_10_hiredtotal","(Wheat) What is the total hired labor days last Kharif?",.3360688,0,0,0
+"p2_10_wage","(Wheat) What is the daily wage for the hired help?",.3508124,0,0,0
+"p2_10_totalcost","(Wheat) What is the total hired labor cost last Kharif?",.553797,0,0,0
+"p2_11_1","(Wheat Pesticides 1) Is your most imp source past experience?",1.734058,0,0,1
+"p2_11_3","(Wheat Pesticides 1) Is your most imp source cell phone based info?",.9969785,0,0,0
+"p2_11_7","(Wheat Pesticides 1) Is your most imp source other farmers?",1.737722,0,0,1
+"p2_11_8","(Wheat Pesticides 1) Is your most imp source agro shops?",.0034036,0,0,0
+"p2_source_1","(Wheat Pesticides) Is your most imp source past_experience?",1.734058,0,0,1
+"p2_source_3","(Wheat Pesticides) Is your most imp source cell_phone_info?",.9969785,0,0,0
+"p2_source_7","(Wheat Pesticides) Is your most imp source other_farmers?",1.737722,0,0,1
+"p2_source_8","(Wheat Pesticides) Is your most imp source agro_shops?",.0034036,0,0,0
+"p1_0","(Cotton) Did you solicit or receive any advice for cotton pesticides in K'10?",4.212609,1,1,1
+"p1_11","(Cotton) What were the two most important sources of advice?- First",8.918158,1,1,1
+"p1_12","(Cotton) What were the two most important sources of advice?- Second",5.048049,1,1,1
+"p1_2","(Cotton) Did you use any pesticides with your cotton crop?",.6446242,0,0,0
+"p1_71_3","(Cotton) Did you purchase -monocrotophos?",1.790504,0,0,1
+"p1_71_3_qty","(Cotton) What was the qty of mono purchased in K'11- Liters?",.8162211,0,0,0
+"p1_71_3_cost","(Cotton) What was the total cost in Rs. of pesticide monocrotophos?",1.823923,0,0,1
+"p1_71_3_use","(Cotton) Did you use monocrotophos",1.553416,0,0,0
+"p1_71_3_use_qty","(Cotton) How much of mono did you use in K'11- Liters?",.956215,0,0,0
+"p1_7c6","(Cotton) Did you purchase -chlorpyrithos?",2.330819,0,1,1
+"p1_7c6_qty","(Cotton) What was the qty of chlorpyrithos purchased in K'11- Liters?",1.638162,0,0,0
+"p1_7c6_rstotal","(Cotton) What was the total cost in Rs. of pesticide chlorpyrithos?",1.136322,0,0,0
+"p1_7c6_qtyused","(Cotton) How much of chlorpyrithos did you use in K'11- Liters?",1.58251,0,0,0
+"p1_8c1","(Cotton) Did you purchase -phosphamidon?",.9969785,0,0,0
+"p1_8c1_qty","(Cotton) What was the qty of phosphamidon purchased in K'11- Liters?",1.225052,0,0,0
+"p1_8c1_rstotal","(Cotton) What was the total cost in Rs. of pesticide phosphamidon?",1.602978,0,0,0
+"p1_8c1_qtyused","(Cotton) How much of phosphamidon did you use in K'11- Liters?",1.225052,0,0,0
+"p1_71_8","(Cotton) Did you purchase -imida?",1.703051,0,0,1
+"p1_71_8_qty","(Cotton) What was the qty of imida purchased in K'11- Liters?",1.53154,0,0,0
+"p1_71_8_cost","(Cotton) What was the total cost in Rs. of pesticide imida?",1.833234,0,0,1
+"p1_71_8_use","(Cotton) Did you use imida",1.80669,0,0,1
+"p1_71_8_use_qty","(Cotton) How much of imida did you use in K'11- Liters?",1.423434,0,0,0
+"p1_71_9","(Cotton) Did you purchase -acetamaprid?",.2685616,0,0,0
+"p1_71_9_qty","(Cotton) What was the qty of acetamaprid purchased in K'11- Kg?",.3067971,0,0,0
+"p1_71_9_cost","(Cotton) What was the total cost in Rs. of pesticide acetamaprid?",1.180555,0,0,0
+"p1_71_9_use","(Cotton) Did you use acetamaprid",.4044316,0,0,0
+"p1_71_9_use_qty","(Cotton) How much of acetamaprid did you use in K'11- Kg?",1.071512,0,0,0
+"p1_71_10","(Cotton) Did you purchase -acephat?",1.824057,0,0,1
+"p1_71_10_qty","(Cotton) What was the qty of acephat purchased in K'11- Kg?",.177671,0,0,0
+"p1_71_10_cost","(Cotton) What was the total cost in Rs. of pesticide acephat?",.1123376,0,0,0
+"p1_71_10_use","(Cotton) Did you use acephat",1.794016,0,0,1
+"p1_71_10_use_qty","(Cotton) How much of acephat did you use in K'11- Kg?",.4240147,0,0,0
+"p1_8c6","(Cotton) Did you purchase -dicofol?",.3061334,0,0,0
+"p1_8c6_qty","(Cotton) What was the qty of dicofol purchased in K'11- Liters?",.7400124,0,0,0
+"p1_8c6_rstotal","(Cotton) What was the total cost in Rs. of pesticide dicofol?",.6579562,0,0,0
+"p1_8c6_qtyused","(Cotton) How much of dicofol did you use in K'11- Liters?",.7400124,0,0,0
+"p1_10ta","(Cotton) Did you use biological method: installation_pheromone_trap?",.1874572,0,0,0
+"p1_10tb","(Cotton) Did you use biological method: release_chrysoperia?",1.023965,0,0,0
+"p1_10tc","(Cotton) Did you use biological method: spray_neem?",.7264646,0,0,0
+"p1_10td","(Cotton) Did you use biological method: release_trichogramma?",.7034969,0,0,0
+"p1_10te","(Cotton) Did you use biological method: spray_HNPV/SNPV?",1.414867,0,0,0
+"p1_10tf","(Cotton) Did you use biological method: Use_Tricoderma?",1.734058,0,0,1
+"p1_11_apps","(Cotton) What is the number of applications of of pesticides last Kharif?",.4382739,0,0,0
+"p1_11_hhtotal","(Cotton) What is the total HH labor days last Kharif?",1.198987,0,0,0
+"p1_11_hiredtotal","(Cotton) What is the total hired labor days last Kharif?",1.640833,0,0,0
+"p1_11_wage","(Cotton) What is the daily wage for the hired help?",.7379776,0,0,0
+"p1_11_totalcost","(Cotton) What is the total hired labor cost last Kharif?",1.367882,0,0,0
+"p1_11_1","(Cotton Pesticides 1) Is your most imp source past experience?",.2238616,0,0,0
+"p1_11_3","(Cotton Pesticides 1) Is your most imp source cell phone based info?",10.57691,1,1,1
+"p1_11_6","(Cotton Pesticides 1) Is your most imp source NGOs?",.9997672,0,0,0
+"p1_11_7","(Cotton Pesticides 1) Is your most imp source other farmers?",1.251877,0,0,0
+"p1_11_8","(Cotton Pesticides 1) Is your most imp source agro shops?",1.755294,0,0,1
+"p1_12_1","(Cotton Pesticides 2) Is your most imp source past experience?",.99698,0,0,0
+"p1_12_3","(Cotton Pesticides 2) Is your most imp source cell phone based info?",3.840349,1,1,1
+"p1_12_5","(Cotton Pesticides 2) Is your most imp source government extension worker?",1.000468,0,0,0
+"p1_12_6","(Cotton Pesticides 2) Is your most imp source NGOs?",.9997672,0,0,0
+"p1_12_7","(Cotton Pesticides 2) Is your most imp source other farmers?",.3263058,0,0,0
+"p1_12_8","(Cotton Pesticides 2) Is your most imp source agro shops?",2.679132,1,1,1
+"p1_source_1","(Cotton Pesticides) Is your most imp source past_experience?",.8424515,0,0,0
+"p1_source_3","(Cotton Pesticides) Is your most imp source cell_phone_info?",11.43451,1,1,1
+"p1_source_5","(Cotton Pesticides) Is your most imp source gov_extension?",1.000468,0,0,0
+"p1_source_6","(Cotton Pesticides) Is your most imp source NGOs?",1.414867,0,0,0
+"p1_source_7","(Cotton Pesticides) Is your most imp source other_farmers?",1.405526,0,0,0
+"p1_source_8","(Cotton Pesticides) Is your most imp source agro_shops?",.3808581,0,0,0
+"p1_7c6_use","used chloropyrithos",2.137967,0,1,1
+"p1_8c1_use","used phosphamidon",.9930891,0,0,0
+"p1_8c6_use","used dicofol",.0061263,0,0,0
+"k2_31_friend1","Top Contact 1: Y/N",1.147817,0,0,0
+"k2_31_1","How many times did you talk to this person in the past month about ag?",.4084605,0,0,0
+"k2_31_2_vil","Is this person a village neighbour?",.1529671,0,0,0
+"k2_31_2_plot","Is this person a plot neighbour?",.2021309,0,0,0
+"k2_31_2_neither","Not a village or plot neighbour",.234278,0,0,0
+"k2_31_3","Relationship to this person",1.642075,0,0,0
+"k2_31_4","How far does this person live from you?",1.820798,0,0,1
+"k2_31_5","How far is this person's plot from your plot?",.2214511,0,0,0
+"k2_31_6","Do you talk to this person about ag in person or on phone?",1.675127,0,0,1
+"k2_31_9","Did this person grow cotton in Kharif'11?",1.450552,0,0,0
+"k2_31_13","Rate this person's knowledge of agriculture",.9698899,0,0,0
+"k2_32_friend2","Top Contact 2: Y/N",.851674,0,0,0
+"k2_32_1","How many times did you talk to this person in the past month about ag?",1.172087,0,0,0
+"k2_32_2_vil","Is this person a village neighbour?",.5041596,0,0,0
+"k2_32_2_plot","Is this person a plot neighbour?",.4551639,0,0,0
+"k2_32_2_neither","Not a village or plot neighbour",.3530514,0,0,0
+"k2_32_3","Relationship to this person",1.297984,0,0,0
+"k2_32_4","How far does this person live from you?",.8754903,0,0,0
+"k2_32_5","How far is this person's plot from your plot?",.8623534,0,0,0
+"k2_32_6","Do you talk to this person about ag in person or on phone?",.3267962,0,0,0
+"k2_32_9","Did this person grow cotton in Kharif'11?",1.345214,0,0,0
+"k2_32_13","Rate this person's knowledge of agriculture",.8048536,0,0,0
+"k2_33_friend3","Top Contact 3: Y/N",1.23094,0,0,0
+"k2_33_1","How many times did you talk to this person in the past month about ag?",1.127378,0,0,0
+"k2_33_2_vil","Is this person a village neighbour?",1.105166,0,0,0
+"k2_33_2_plot","Is this person a plot neighbour?",.8973055,0,0,0
+"k2_33_2_neither","Not a village or plot neighbour",.3741975,0,0,0
+"k2_33_3","Relationship to this person",1.138447,0,0,0
+"k2_33_4","How far does this person live from you?",1.45546,0,0,0
+"k2_33_5","How far is this person's plot from your plot?",1.667346,0,0,1
+"k2_33_6","Do you talk to this person about ag in person or on phone?",1.28918,0,0,0
+"k2_33_9","Did this person grow cotton in Kharif'11?",1.251034,0,0,0
+"k2_33_13","Rate this person's knowledge of agriculture",.9364258,0,0,0
+"k1_1","Did you receive advice from a govt extension worker in the past year?",1.171284,0,0,0
+"k1_3_1","Do you use - past_experience - to make agricultural decisions?",2.457467,0,1,1
+"k1_3_1_trust","What is your trust in past_experience?",2.084928,0,1,1
+"k1_3_2","Do you use - TV_program - to make agricultural decisions?",.5948223,0,0,0
+"k1_3_2_trust","What is your trust in TV_program?",.5302937,0,0,0
+"k1_3_2_freq","How frequently do you use - TV_program?",.0178061,0,0,0
+"k1_3_3","Do you use - Cellphone_based_info - to make agricultural decisions?",30.22182,1,1,1
+"k1_3_3_trust","What is your trust in Cellphone_based_info?",32.67207,1,1,1
+"k1_3_3_freq","How frequently do you use - Cellphone_based_info?",9.05869,1,1,1
+"k1_3_4","Do you use - newspaper/magazine - to make agricultural decisions?",1.076575,0,0,0
+"k1_3_4_trust","What is your trust in newspaper/magazine?",1.01635,0,0,0
+"k1_3_4_freq","How frequently do you use - newspaper/magazine?",1.48321,0,0,0
+"k1_3_5","Do you use - govt_extension_worker - to make agricultural decisions?",1.137934,0,0,0
+"k1_3_5_trust","What is your trust in govt_extension_worker?",.9502602,0,0,0
+"k1_3_5_freq","How frequently do you use - govt_extension_worker?",1.726195,0,0,1
+"k1_3_6","Do you use - NGO - to make agricultural decisions?",.4824847,0,0,0
+"k1_3_6_trust","What is your trust in NGO?",.585327,0,0,0
+"k1_3_6_freq","How frequently do you use - NGO?",.8741809,0,0,0
+"k1_3_7","Do you use - Other_farmer_friends - to make agricultural decisions?",.5256127,0,0,0
+"k1_3_7_trust","What is your trust in Other_farmer_friends?",.0000173,0,0,0
+"k1_3_7_freq","How frequently do you use - Other_farmer_friends?",.3318282,0,0,0
+"k1_3_8","Do you use - Ag_dealer - to make agricultural decisions?",.8378529,0,0,0
+"k1_3_8_trust","What is your trust in Ag_dealer?",.892354,0,0,0
+"k1_3_8_freq","How frequently do you use - Ag_dealer?",.3590879,0,0,0
+"k1_3_9","Do you use - commission_agent - to make agricultural decisions?",.4531977,0,0,0
+"k1_3_9_trust","What is your trust in commission_agent?",.6265517,0,0,0
+"k1_3_9_freq","How frequently do you use - commission_agent?",.4285866,0,0,0
+"k1_3_888","Do you use - Other - to make agricultural decisions?",2.680171,1,1,1
+"k1_3_888_trust","What is your trust in Other?",.0148572,0,0,0
+"k1_3_888_freq","How frequently do you use Other?",4.085325,1,1,1
+"k1_5_1","What is your most important source of info for crop_decision?",3.93395,1,1,1
+"k1_5_2","What is your most important source of info for field/soil_preparation?",1.601964,0,0,0
+"k1_5_3","What is your most important source of info for seeds?",4.079448,1,1,1
+"k1_5_4","What is your most important source of info for fertilizers?",4.98705,1,1,1
+"k1_5_5","What is your most important source of info for pest_id?",10.96826,1,1,1
+"k1_5_6","What is your most important source of info for pesticide_usage?",10.37109,1,1,1
+"k1_5_7","What is your most important source of info for irrigation?",4.006488,1,1,1
+"k1_5_8","What is your most important source of info for weather?",17.97381,1,1,1
+"k1_5_9","What is your most important source of info for harvesting?",4.302294,1,1,1
+"k1_5_10","What is your most important source of info for prices?",.9227297,0,0,0
+"k1_5_11","What is your most important source of info for storage/selling?",1.362242,0,0,0
+"k1_5_12","What is your most important source of info for animal_husbandry?",1.082374,0,0,0
+"k1_5_other_source","What is your most important source of info for other topics?",.6542082,0,0,0
+"k1_6","Did you attend any agricultual training or demos in the past year?",2.858313,1,1,1
+"k1_6_number","How many agricultual training or demos did you attend in the past year?",.8298178,0,0,0
+"k1_7","Do you know when was the last time you went to an agricultural training?",2.268948,0,1,1
+"k1_81","Who conducted the training? - Government Krushi Mela",.2004844,0,0,0
+"k1_82","Who conducted the training? - Gram Sevak",.3061334,0,0,0
+"k1_83","Who conducted the training? - CMF/DSC/Sajjata Sangh/AKRSP",1.34517,0,0,0
+"k1_86_n","Who conducted the training? - Agricultural University",1.262848,0,0,0
+"k1_87_n","Who conducted the training? - Private Company",.0048202,0,0,0
+"k1_8_888","Who conducted the training? - Other",1.074986,0,0,0
+"k1_9","How would you rate your own knowledge about agriculture?",.351147,0,0,0
+"k1_10","Are there aspects of your ag where you feel you would benefit from receiving mor",.8946334,0,0,0
+"k1_5a_cropdecision_1","Is your most imp source for cropdecision past experience?",1.346943,0,0,0
+"k1_5a_cropdecision_2","Is your most imp source for cropdecision TV program?",1.392521,0,0,0
+"k1_5a_cropdecision_3","Is your most imp source for cropdecision cell phone based info?",5.68709,1,1,1
+"k1_5a_cropdecision_4","Is your most imp source for cropdecision newspaper/magazines?",1.000468,0,0,0
+"k1_5a_cropdecision_6","Is your most imp source for cropdecision NGOs?",.4495955,0,0,0
+"k1_5a_cropdecision_7","Is your most imp source for cropdecision other farmers?",.4386368,0,0,0
+"k1_5a_cropdecision_8","Is your most imp source for cropdecision agro shops?",.718596,0,0,0
+"k1_5a_cropdecision_9","Is your most imp source for cropdecision trader/commission agents?",.9997672,0,0,0
+"k1_5a_soilprep_1","Is your most imp source for soilprep past experience?",.8868306,0,0,0
+"k1_5a_soilprep_2","Is your most imp source for soilprep TV program?",1.414867,0,0,0
+"k1_5a_soilprep_3","Is your most imp source for soilprep cell phone based info?",1.968476,0,1,1
+"k1_5a_soilprep_4","Is your most imp source for soilprep newspaper/magazines?",1.000468,0,0,0
+"k1_5a_soilprep_5","Is your most imp source for soilprep government extension worker?",1.000468,0,0,0
+"k1_5a_soilprep_7","Is your most imp source for soilprep other farmers?",.0139087,0,0,0
+"k1_5a_soilprep_8","Is your most imp source for soilprep agro shops?",1.414867,0,0,0
+"k1_5a_seeds_1","Is your most imp source for seeds past experience?",.2285579,0,0,0
+"k1_5a_seeds_2","Is your most imp source for seeds TV program?",1.734058,0,0,1
+"k1_5a_seeds_3","Is your most imp source for seeds cell phone based info?",7.336987,1,1,1
+"k1_5a_seeds_4","Is your most imp source for seeds newspaper/magazines?",.4495955,0,0,0
+"k1_5a_seeds_5","Is your most imp source for seeds government extension worker?",.9997672,0,0,0
+"k1_5a_seeds_6","Is your most imp source for seeds NGOs?",1.734058,0,0,1
+"k1_5a_seeds_7","Is your most imp source for seeds other farmers?",1.97394,0,1,1
+"k1_5a_seeds_8","Is your most imp source for seeds agro shops?",2.126506,0,1,1
+"k1_5a_fert_1","Is your most imp source for fert past experience?",1.170877,0,0,0
+"k1_5a_fert_2","Is your most imp source for fert TV program?",1.414867,0,0,0
+"k1_5a_fert_3","Is your most imp source for fert cell phone based info?",8.248806,1,1,1
+"k1_5a_fert_4","Is your most imp source for fert newspaper/magazines?",1.000468,0,0,0
+"k1_5a_fert_5","Is your most imp source for fert government extension worker?",.9997672,0,0,0
+"k1_5a_fert_6","Is your most imp source for fert NGOs?",.4495955,0,0,0
+"k1_5a_fert_7","Is your most imp source for fert other farmers?",1.101879,0,0,0
+"k1_5a_fert_8","Is your most imp source for fert agro shops?",1.924638,0,0,1
+"k1_5a_pestid_1","Is your most imp source for pestid past experience?",3.172029,1,1,1
+"k1_5a_pestid_2","Is your most imp source for pestid TV program?",.7034969,0,0,0
+"k1_5a_pestid_3","Is your most imp source for pestid cell phone based info?",13.93173,1,1,1
+"k1_5a_pestid_5","Is your most imp source for pestid government extension worker?",.9997672,0,0,0
+"k1_5a_pestid_6","Is your most imp source for pestid NGOs?",.9997672,0,0,0
+"k1_5a_pestid_7","Is your most imp source for pestid other farmers?",3.038904,1,1,1
+"k1_5a_pestid_8","Is your most imp source for pestid agro shops?",2.845624,1,1,1
+"k1_5a_pestid_9","Is your most imp source for pestid trader/commission agents?",.9997672,0,0,0
+"k1_5a_pestuse_1","Is your most imp source for pestuse past experience?",.8942541,0,0,0
+"k1_5a_pestuse_2","Is your most imp source for pestuse TV program?",.0034036,0,0,0
+"k1_5a_pestuse_3","Is your most imp source for pestuse cell phone based info?",14.73837,1,1,1
+"k1_5a_pestuse_5","Is your most imp source for pestuse government extension worker?",.9997672,0,0,0
+"k1_5a_pestuse_6","Is your most imp source for pestuse NGOs?",1.734058,0,0,1
+"k1_5a_pestuse_7","Is your most imp source for pestuse other farmers?",2.697474,1,1,1
+"k1_5a_pestuse_8","Is your most imp source for pestuse agro shops?",5.564281,1,1,1
+"k1_5a_pestuse_9","Is your most imp source for pestuse trader/commission agents?",.4495955,0,0,0
+"k1_5a_irrig_1","Is your most imp source for irrig past experience?",2.036005,0,1,1
+"k1_5a_irrig_2","Is your most imp source for irrig TV program?",.9997672,0,0,0
+"k1_5a_irrig_3","Is your most imp source for irrig cell phone based info?",4.499792,1,1,1
+"k1_5a_irrig_4","Is your most imp source for irrig newspaper/magazines?",1.000468,0,0,0
+"k1_5a_irrig_5","Is your most imp source for irrig government extension worker?",.9997672,0,0,0
+"k1_5a_irrig_6","Is your most imp source for irrig NGOs?",.9997672,0,0,0
+"k1_5a_irrig_7","Is your most imp source for irrig other farmers?",.224192,0,0,0
+"k1_5a_irrig_8","Is your most imp source for irrig agro shops?",.2486439,0,0,0
+"k1_5a_weather_1","Is your most imp source for weather past experience?",8.71323,1,1,1
+"k1_5a_weather_2","Is your most imp source for weather TV program?",.6306525,0,0,0
+"k1_5a_weather_3","Is your most imp source for weather cell phone based info?",17.30309,1,1,1
+"k1_5a_weather_4","Is your most imp source for weather newspaper/magazines?",2.003713,0,1,1
+"k1_5a_weather_6","Is your most imp source for weather NGOs?",1.414867,0,0,0
+"k1_5a_weather_7","Is your most imp source for weather other farmers?",2.166761,0,1,1
+"k1_5a_weather_8","Is your most imp source for weather agro shops?",1.470984,0,0,0
+"k1_5a_harvest_1","Is your most imp source for harvest past experience?",3.238006,1,1,1
+"k1_5a_harvest_2","Is your most imp source for harvest TV program?",1.414867,0,0,0
+"k1_5a_harvest_3","Is your most imp source for harvest cell phone based info?",3.490058,1,1,1
+"k1_5a_harvest_7","Is your most imp source for harvest other farmers?",2.759076,1,1,1
+"k1_5a_harvest_8","Is your most imp source for harvest agro shops?",.6366248,0,0,0
+"k1_5a_harvest_9","Is your most imp source for harvest trader/commission agents?",.9997672,0,0,0
+"k1_5a_prices_1","Is your most imp source for prices past experience?",1.024876,0,0,0
+"k1_5a_prices_2","Is your most imp source for prices TV program?",.5809251,0,0,0
+"k1_5a_prices_3","Is your most imp source for prices cell phone based info?",1.073524,0,0,0
+"k1_5a_prices_4","Is your most imp source for prices newspaper/magazines?",.128178,0,0,0
+"k1_5a_prices_5","Is your most imp source for prices government extension worker?",1.000468,0,0,0
+"k1_5a_prices_6","Is your most imp source for prices NGOs?",2.241783,0,1,1
+"k1_5a_prices_7","Is your most imp source for prices other farmers?",.1396966,0,0,0
+"k1_5a_prices_8","Is your most imp source for prices agro shops?",.460275,0,0,0
+"k1_5a_prices_9","Is your most imp source for prices trader/commission agents?",1.345418,0,0,0
+"k1_5a_storage_1","Is your most imp source for storage past experience?",.8487075,0,0,0
+"k1_5a_storage_2","Is your most imp source for storage TV program?",1.003488,0,0,0
+"k1_5a_storage_3","Is your most imp source for storage cell phone based info?",.0034036,0,0,0
+"k1_5a_storage_4","Is your most imp source for storage newspaper/magazines?",.7034969,0,0,0
+"k1_5a_storage_6","Is your most imp source for storage NGOs?",.9997672,0,0,0
+"k1_5a_storage_7","Is your most imp source for storage other farmers?",1.037298,0,0,0
+"k1_5a_storage_8","Is your most imp source for storage agro shops?",.5061595,0,0,0
+"k1_5a_storage_9","Is your most imp source for storage trader/commission agents?",.1018005,0,0,0
+"k1_5a_animalhus_1","Is your most imp source for animalhus past experience?",1.464294,0,0,0
+"k1_5a_animalhus_2","Is your most imp source for animalhus TV program?",.7034969,0,0,0
+"k1_5a_animalhus_3","Is your most imp source for animalhus cell phone based info?",2.003713,0,1,1
+"k1_5a_animalhus_4","Is your most imp source for animalhus newspaper/magazines?",.9997672,0,0,0
+"k1_5a_animalhus_5","Is your most imp source for animalhus government extension worker?",1.414867,0,0,0
+"k1_5a_animalhus_6","Is your most imp source for animalhus NGOs?",.4495955,0,0,0
+"k1_5a_animalhus_7","Is your most imp source for animalhus other farmers?",.1662761,0,0,0
+"k1_5a_other_1","Is your most imp source for other past experience?",.6617366,0,0,0
+"h1_1b","Did you cultivate cotton?",.3829182,0,0,0
+"h1_1e","Quantity harvested of cotton - kg",.2405158,0,0,0
+"h1_1f","Unit of output measurement of cotton",1.002952,0,0,0
+"h1_1g","Price per unit of output of cotton",.4801506,0,0,0
+"h1_1h","Total value of cotton",2.075869,0,1,1
+"h1_2b","Did you cultivate castor?",.5720549,0,0,0
+"h1_2e","Quantity harvested of castor - kg",1.048899,0,0,0
+"h1_2f","Unit of output measurement of castor",.6640252,0,0,0
+"h1_2g","Price per unit of output of castor",1.160857,0,0,0
+"h1_2h","Total value of castor",1.385081,0,0,0
+"h1_3b","Did you cultivate wheat?",.2805823,0,0,0
+"h1_3e","Quantity harvested of wheat - kg",.5928475,0,0,0
+"h1_3f","Unit of output measurement of wheat",.1282245,0,0,0
+"h1_3g","Price per unit of output of wheat",1.11395,0,0,0
+"h1_3h","Total value of wheat",1.651212,0,0,1
+"h1_4b","Did you cultivate cumin?",.9827653,0,0,0
+"h1_4e","Quantity harvested of cumin - kg",1.101685,0,0,0
+"h1_4f","Unit of output measurement of cumin",.3764988,0,0,0
+"h1_4g","Price per unit of output of cumin",.8384052,0,0,0
+"h1_4h","Total value of cumin",1.95572,0,0,1
+"h1_5b","Did you cultivate bajri?",.9622158,0,0,0
+"h1_5e","Quantity harvested of bajri - kg",1.685053,0,0,1
+"h1_5f","Unit of output measurement of bajri",.4321271,0,0,0
+"h1_5g","Price per unit of output of bajri",1.998442,0,1,1
+"h1_5h","Total value of bajri",1.400545,0,0,0
+"h1_6b","Did you cultivate jowar?",1.098896,0,0,0
+"h1_6e","Quantity harvested of jowar - kg",.8905621,0,0,0
+"h1_6f","Unit of output measurement of jowar",.2773202,0,0,0
+"h1_6g","Price per unit of output of jowar",1.713576,0,0,1
+"h1_6h","Total value of jowar",.3290392,0,0,0
+"h1_9b","Did you cultivate sesame?",1.299456,0,0,0
+"h1_9e","Quantity harvested of sesame - kg",2.575987,1,1,1
+"h1_9f","Unit of output measurement of sesame",2.142807,0,1,1
+"h1_9g","Price per unit of output of sesame",2.982448,1,1,1
+"h1_9h","Total value of sesame",1.000424,0,0,0
+"h1_10b","Did you cultivate pulses?",.7944238,0,0,0
+"h1_10e","Quantity harvested of pulses - kg",.5175125,0,0,0
+"h1_10f","Unit of output measurement of pulses",.7944238,0,0,0
+"h1_10g","Price per unit of output of pulses",.0463825,0,0,0
+"h1_10h","Total value of pulses",1.000424,0,0,0
+"h1_11b","Did you cultivate vegetables?",1.158967,0,0,0
+"h1_11e","Quantity harvested of vegetables - kg",.9049599,0,0,0
+"h1_11f","Unit of output measurement of vegetables",.1425031,0,0,0
+"h1_11g","Price per unit of output of vegetables",.9921258,0,0,0
+"h1_11h","Total value of vegetables",.0014596,0,0,0
+"h1_12b","Did you cultivate corn?",2.138648,0,1,1
+"h1_12e","Quantity harvested of corn - kg",1.308769,0,0,0
+"h1_12f","Unit of output measurement of corn",1.385588,0,0,0
+"h1_12g","Price per unit of output of corn",.9997669,0,0,0
+"h1_12h","Total value of corn",1.620979,0,0,0
+"h1_13b","Did you cultivate groundnut?",.180368,0,0,0
+"h1_13e","Quantity harvested of groundnut - kg",.067795,0,0,0
+"h1_13f","Unit of output measurement of groundnut",.0832056,0,0,0
+"h1_13g","Price per unit of output of groundnut",.0468293,0,0,0
+"h1_13h","Total value of groundnut",.9572356,0,0,0
+"h1_14b","Did you cultivate rajko?",.6171533,0,0,0
+"h1_14e","Quantity harvested of rajko - kg",1.100968,0,0,0
+"h1_14f","Unit of output measurement of rajko",.9397432,0,0,0
+"h1_14g","Price per unit of output of rajko",.999761,0,0,0
+"h1_15b","Did you cultivate other1?",.7348583,0,0,0
+"h1_15e","Quantity harvested of other1 - kg",.7932654,0,0,0
+"h1_15g","Price per unit of output of other1",.494483,0,0,0
+"h1_15h","Total value of other1",1.334518,0,0,0
+"h1_1_tot_inc","Imputed value of crop income from output and price per output",1.218891,0,0,0
+"h1_2_tot_inc","Imputed value of crop income from output and price per output",1.333233,0,0,0
+"h1_3_tot_inc","Imputed value of crop income from output and price per output",2.092402,0,1,1
+"h1_4_tot_inc","Imputed value of crop income from output and price per output",1.122914,0,0,0
+"h1_5_tot_inc","Imputed value of crop income from output and price per output",1.814982,0,0,1
+"h1_6_tot_inc","Imputed value of crop income from output and price per output",.0712782,0,0,0
+"h1_9_tot_inc","Imputed value of crop income from output and price per output",2.401632,0,1,1
+"h1_10_tot_inc","Imputed value of crop income from output and price per output",.4586865,0,0,0
+"h1_11_tot_inc","Imputed value of crop income from output and price per output",.2023104,0,0,0
+"h1_12_tot_inc","Imputed value of crop income from output and price per output",1.640817,0,0,0
+"h1_13_tot_inc","Imputed value of crop income from output and price per output",.0031415,0,0,0
+"h1_14_tot_inc","Imputed value of crop income from output and price per output",.9997672,0,0,0
+"h1_15_tot_inc","Imputed value of crop income from output and price per output",.0936354,0,0,0
+"f_1","Flag variable, where imputed income does not equal income given in survey",2.186383,0,1,1
+"f_2","Flag variable, where imputed income does not equal income given in survey",.2284652,0,0,0
+"f_3","Flag variable, where imputed income does not equal income given in survey",.9986352,0,0,0
+"f_4","Flag variable, where imputed income does not equal income given in survey",.1905011,0,0,0
+"f_5","Flag variable, where imputed income does not equal income given in survey",2.003713,0,1,1
+"f_9","Flag variable, where imputed income does not equal income given in survey",3.016104,1,1,1
+"f_11","Flag variable, where imputed income does not equal income given in survey",.7944238,0,0,0
+"f_12","Flag variable, where imputed income does not equal income given in survey",.9997672,0,0,0
+"f_13","Flag variable, where imputed income does not equal income given in survey",.0134475,0,0,0
+"ag_income","Agricultural income for past 12 months",1.689378,0,0,1
+"Total_Cotton_Acres","Total acres of cumin planted in Kharif 2011",1.669741,0,0,1
+"cotton_yield","Kilograms of cotton produced per acre of cotton planted",.2018765,0,0,0
+"Total_Cumin_Acres","Total acres of cumin planted in Rabi 2011-12",.3884384,0,0,0
+"cumin_yield","Kilograms of cumin produced per acre of cumin planted",2.37306,0,1,1
+"Total_Wheat_Acres","Total acres of wheat planted in Rabi 2011-12",1.457636,0,0,0
+"wheat_yield","Kilograms of wheat produced per acre of wheat planted",.5030534,0,0,0
+"crop_income","total crop income",1.646248,0,0,1
+"f3_0","(Cumin) Did you solicit or receive any cumin fertilizer advice in R'10-11?",.5666934,0,0,0
+"f3_1_1","(Cumin) What was the most important source of fertilizer advice? - Source 1",2.799932,1,1,1
+"f3_1_2","(Cumin) What was the most important source of fertilizer advice? - Source 2",.2171317,0,0,0
+"f3_2","(Cumin) Did you use fertilizers in R'10-11 for your cumin crop?",.5597735,0,0,0
+"f3_3a","(Cumin) Why did you not use fertilizer? - Wrong time in crop phase",.9997672,0,0,0
+"f3_3_888","(Cumin) Why did you not use fertilizer? - Other",1.000468,0,0,0
+"f3_7","(Cumin) Did you purchase fertilizers or reuse from the previous year?",.7331637,0,0,0
+"f3_8a","(Cumin) What chemical fertilizers did you purchase? - urea",.3080859,0,0,0
+"f3_8a_qty","(Cumin) What qty of - urea - did you purchase? -kg",.1802073,0,0,0
+"f3_8a_rstotal","(Cumin) What is the total expenditure on - urea?",.4649973,0,0,0
+"f3_8a_use_qty","(Cumin) What is the amount of urea being used? -kg",.5351291,0,0,0
+"f3_8b","(Cumin) What chemical fertilizers did you purchase? - ammonium_sulfate",.99698,0,0,0
+"f3_8b_qty","(Cumin) What qty of - ammonium_sulfate - did you purchase? -kg",1.565366,0,0,0
+"f3_8b_rstotal","(Cumin) What is the total expenditure on - ammonium_sulfate?",1.190154,0,0,0
+"f3_8b_use_qty","(Cumin) What is the amount of ammonium_sulfate being used? -kg",1.39349,0,0,0
+"f3_8c","(Cumin) What chemical fertilizers did you purchase? - DAP",1.097222,0,0,0
+"f3_8c_qty","(Cumin) What qty of - DAP - did you purchase? -kg",.2842359,0,0,0
+"f3_8c_rstotal","(Cumin) What is the total expenditure on - DAP?",1.636327,0,0,0
+"f3_8c_use_qty","(Cumin) What is the amount of DAP being used? -kg",.6600726,0,0,0
+"f3_8d","(Cumin) What chemical fertilizers did you purchase? - MoP",1.235627,0,0,0
+"f3_8d_qty","(Cumin) What qty of - MoP - did you purchase? -kg",.98435,0,0,0
+"f3_8d_rstotal","(Cumin) What is the total expenditure on - MoP?",1.45395,0,0,0
+"f3_8d_use_qty","(Cumin) What is the amount of MoP being used? -kg",.98435,0,0,0
+"f3_8f1","(Cumin) What chemical fertilizers did you purchase? - micronutrient1",.5300928,0,0,0
+"f3_8f1_qty","(Cumin) What qty of - micronutrient1 - did you purchase? -kg",.666629,0,0,0
+"f3_8f1_rstotal","(Cumin) What is the total expenditure on - micronutrient1?",.4438036,0,0,0
+"f3_8g1_use_qty","(Cumin) What is the amount of other1 being used? -kg",.8846493,0,0,0
+"f3_8g2_use_qty","(Cumin) What is the amount of other2 being used? -kg",.9997672,0,0,0
+"f3_10_apps","(Cumin) No. of chemical fertilizer apps for cumin in R'10-10",.4264853,0,0,0
+"f3_10_hhtotal","(Cumin) Total hh labour days for cumin chemical fert",.5760509,0,0,0
+"f3_10_hiredtotal","(Cumin) Total hired labour days for cumin chem fert",.7517611,0,0,0
+"f3_10_wage","(Cumin) Daily wage for hired labour for cumin chem fert",1.815149,0,0,1
+"f3_10_rstotal","(Cumin) Daily wage for hired labour for cumin chem fert",.5754348,0,0,0
+"f3_11","(Cumin) Did you use organic fert for cumin in R'10-11?",.3180114,0,0,0
+"f3_12a","(Cumin) Did you purchase manure/compost?",.0048202,0,0,0
+"f3_12a_kilo","(Cumin) What is the amount of manure/compost used - kg?",1.190726,0,0,0
+"f3_12d","(Cumin) Did you purchase cake?",.4495955,0,0,0
+"f3_12d_kilo","(Cumin) What is the amount of cake used - kg?",.0029487,0,0,0
+"f3_13_apps","(Cumin) No. of organic fert apps for cumin in R'11",.2537552,0,0,0
+"f3_13_hhtotal","(Cumin) Total hh labour days for cumin organic fert",.6589219,0,0,0
+"f3_13_hiredtotal","(Cumin) Total hired labour days for cumin org fert",.2194313,0,0,0
+"f3_13_wage","(Cumin) Daily wage for hired labour for cumin org fert",.9992349,0,0,0
+"f3_13_rstotal","(Cumin) Total labor cost for hired labour for cumin org fert",.5828118,0,0,0
+"f3_1_1_1","(Cumin Fertilizers 1) Is your most imp source past experience?",.9997672,0,0,0
+"f3_1_1_3","(Cumin Fertilizers 1)Is your most imp source cell phone based info?",3.635132,1,1,1
+"f3_1_1_7","(Cumin Fertilizers 1)Is your most imp source other farmers?",.3068795,0,0,0
+"f3_1_1_8","(Cumin Fertilizers 1)Is your most imp source agro shops?",.4495955,0,0,0
+"f3_1_2_3","(Cumin Fertilizers 2)Is your most imp source cell phone based info?",.4495955,0,0,0
+"f3_1_2_7","(Cumin Fertilizers 2)Is your most imp source other farmers?",.9997672,0,0,0
+"f3_1_2_8","(Cumin Fertilizers 2)Is your most imp source agro shops?",.2725945,0,0,0
+"f3_source_1","(Cumin Fertilizers) Is your most imp source past_experience?",.9997672,0,0,0
+"f3_source_3","(Cumin Fertilizers) Is your most imp source cell_phone_info?",2.843622,1,1,1
+"f3_source_7","(Cumin Fertilizers) Is your most imp source other_farmers?",.1567501,0,0,0
+"f3_source_8","(Cumin Fertilizers) Is your most imp source agro_shops?",.0059118,0,0,0
+"f3_7_1","(Cumin) Purchased fertilizer for wheat in R'11",.3722141,0,0,0
+"f3_7_2","(Cumin) Reused fertilizer for wheat in R'11",1.416856,0,0,0
+"f3_8a_use","(Cumin) Did you use urea?",1.105709,0,0,0
+"f3_8b_use","(Cumin) Did you use ammonium_sulfate?",.6829239,0,0,0
+"f3_8c_use","(Cumin) Did you use DAP?",.1332525,0,0,0
+"f3_8d_use","(Cumin) Did you use MoP?",.4228856,0,0,0
+"f3_8g1_use","(Cumin) Did you use other1?",.5388801,0,0,0
+"f3_8g2_use","(Cumin) Did you use other2?",.5835899,0,0,0
+"f3_8e","(cumin) purchased micronutrients",.5253624,0,0,0
+"f3_8e_use","(cumin) used micronutrients",.5253624,0,0,0
+"f3_8e_qty","(cumin) qty purchased of micronutrient ferts",.6625189,0,0,0
+"f3_8e_use_qty","(cumin) qty. used micronutrients",.666629,0,0,0
+"f3_8e_rstotal","(cumin) rs spent on micronutrients",.4438036,0,0,0
+"f3_12a_use","used manure",.3662077,0,0,0
+"f3_12b_use","used biofert",.1641115,0,0,0
+"f3_12d_use","used cake",.0941675,0,0,0
+"f2_0","(Wheat) Did you solicit or receive any wheat fertilizer advice in R'10-11?",.0119757,0,0,0
+"f2_1_1","(Wheat) What was the most important source of fertilizer advice? - Source 1",1.161963,0,0,0
+"f2_1_2","(Wheat) What was the most important source of fertilizer advice? - Source 2",.0941313,0,0,0
+"f2_2","(Wheat) Did you use fertilizers in R'10-11 for your cotton crop?",.6336588,0,0,0
+"f2_3a","(Wheat) Why did you not use fertilizer? - Wrong time in crop phase",.9997672,0,0,0
+"f2_3_888","(Wheat) Why did you not use fertilizer? - Other",.4495955,0,0,0
+"f2_7","(Wheat) Did you purchase fertilizers or reuse from the previous year?",.9169659,0,0,0
+"f2_8a","(Wheat) What chemical fertilizers did you purchase? - urea",.8378529,0,0,0
+"f2_8a_qty","(Wheat) What qty of - urea - did you purchase? -kg",.7732466,0,0,0
+"f2_8a_rstotal","(Wheat) What is the total expenditure on - urea?",.0704781,0,0,0
+"f2_8a_use_qty","(Wheat) What is the amount of urea being used? -kg",1.735668,0,0,1
+"f2_8c","(Wheat) What chemical fertilizers did you purchase? - DAP",.1870398,0,0,0
+"f2_8c_qty","(Wheat) What qty of - DAP - did you purchase? -kg",.4377949,0,0,0
+"f2_8c_rstotal","(Wheat) What is the total expenditure on - DAP?",.2690099,0,0,0
+"f2_8c_use_qty","(Wheat) What is the amount of DAP being used? -kg",1.529446,0,0,0
+"f2_8d","(Wheat) What chemical fertilizers did you purchase? - MoP",.3741975,0,0,0
+"f2_8d_qty","(Wheat) What qty of - MoP - did you purchase? -kg",.1962619,0,0,0
+"f2_8d_rstotal","(Wheat) What is the total expenditure on - MoP?",.3845376,0,0,0
+"f2_8d_use_qty","(Wheat) What is the amount of MoP being used? -kg",.1000052,0,0,0
+"f2_10_apps","(Wheat) No. of chemical fertilizer apps for wheat in R'10-10",.4670255,0,0,0
+"f2_10_hhtotal","(Wheat) Total hh labour days for wheat chemical fert",1.292467,0,0,0
+"f2_10_hiredtotal","(Wheat) Total hired labour days for wheat chem fert",.4944628,0,0,0
+"f2_10_wage","(Wheat) Daily wage for hired labour for wheat chem fert",.7549763,0,0,0
+"f2_10_rstotal","(Wheat) Total wage for hired labour for wheat chem fert",.2102584,0,0,0
+"f2_11","(Wheat) Did you use organic fert for wheat in R'10-11?",.4543567,0,0,0
+"f2_12a","(Wheat) Did you purchase manure/compost?",.5868233,0,0,0
+"f2_12a_kilo","(Wheat) What is the amount of manure/compost used - kg?",.8884504,0,0,0
+"f2_13_apps","(Wheat) No. of organic fert apps for wheat in R'11",.7827547,0,0,0
+"f2_13_hhtotal","(Wheat) Total hh labour days for wheat organic fert",.1860443,0,0,0
+"f2_13_hiredtotal","(Wheat) Total hired labour days for wheat org fert",1.481294,0,0,0
+"f2_13_wage","(Wheat) Daily wage for hired labour for wheat org fert",1.03188,0,0,0
+"f2_13_rstotal","(Wheat) Total labor cost for hired labour for wheat org fert",1.508126,0,0,0
+"f2_1_1_1","(Wheat Fertilizers 1) Is your most imp source past experience?",1.262848,0,0,0
+"f2_1_1_3","(Wheat Fertilizers 1)Is your most imp source cell phone based info?",2.457467,0,1,1
+"f2_1_1_7","(Wheat Fertilizers 1)Is your most imp source other farmers?",1.529658,0,0,0
+"f2_1_1_8","(Wheat Fertilizers 1)Is your most imp source agro shops?",.3741975,0,0,0
+"f2_1_2_8","(Wheat Fertilizers 2)Is your most imp source agro shops?",.4495955,0,0,0
+"f2_source_1","(Wheat Fertilizers) Is your most imp source past_experience?",1.262848,0,0,0
+"f2_source_3","(Wheat Fertilizers) Is your most imp source cell_phone_info?",2.457467,0,1,1
+"f2_source_7","(Wheat Fertilizers) Is your most imp source other_farmers?",1.529658,0,0,0
+"f2_source_8","(Wheat Fertilizers) Is your most imp source agro_shops?",.0048202,0,0,0
+"f2_7_1","(Wheat) Purchased fertilizer for wheat in R'11",.3184862,0,0,0
+"f2_7_2","(Wheat) Reused fertilizer for wheat in R'11",1.262848,0,0,0
+"f2_7_3","(Wheat) Purchased/Reused fertilizer for wheat in R'11",1.414867,0,0,0
+"f2_c_total_cost","(Wheat) Total Chemical fertilizer expenditure on wheat in R'11",.1579023,0,0,0
+"f2_8a_use","used urea",.2393578,0,0,0
+"f2_8b_use","used ammonium sulphate",.5885661,0,0,0
+"f2_8c_use","used DAP",.6552192,0,0,0
+"f2_8d_use","used MoP",.6144724,0,0,0
+"f2_12a_use","(wheat) used manure",.0921461,0,0,0
+"f2_12b_use","(wheat) used biofert",.1641115,0,0,0
+"f1_0","(Cotton) Did you solicit or receive any fertilizer advice in K'11?",3.029523,1,1,1
+"f1_1_1","(Cotton) What was the most important source of fertilizer advice? - Source 1",6.405967,1,1,1
+"f1_1_2","(Cotton) What was the most important source of fertilizer advice? - Source 2",3.0521,1,1,1
+"f1_2","(Cotton) Did you use fertilizers in K'11 for your cotton crop?",.8975496,0,0,0
+"f1_3a","(Cotton) Why did you not use fertilizer? - Wrong time in crop phase",.5300928,0,0,0
+"f1_3b","(Cotton) Why did you not use fertilizer? - Too expensive",.9997672,0,0,0
+"f1_3e","(Cotton) Why did you not use fertilizer? - Bad experience",1.000468,0,0,0
+"f1_3f","(Cotton) Why did you not use fertilizer? - Don't know how",1.000468,0,0,0
+"f1_3_888","(Cotton) Why did you not use fertilizer? - Other",1.413555,0,0,0
+"f1_7","(Cotton) Did you purchase fertilizers or reuse from the previous year?",.753149,0,0,0
+"f1_8a","(Cotton) What chemical fertilizers did you purchase? - urea",1.008339,0,0,0
+"f1_8a_qty","(Cotton) What qty of - urea - did you purchase? -kg",1.117328,0,0,0
+"f1_8a_rstotal","(Cotton) What is the total expenditure on - urea?",1.292807,0,0,0
+"f1_8a_use_qty","(Cotton) What is the amount of urea being used? -kg",.7077466,0,0,0
+"f1_8b","(Cotton) What chemical fertilizers did you purchase? - ammonium_sulfate",1.942335,0,0,1
+"f1_8b_qty","(Cotton) What qty of - ammonium_sulfate - did you purchase? -kg",.2441379,0,0,0
+"f1_8b_rstotal","(Cotton) What is the total expenditure on - ammonium_sulfate?",.1907746,0,0,0
+"f1_8b_use_qty","(Cotton) What is the amount of ammonium_sulfate being used? -kg",.4663939,0,0,0
+"f1_8c","(Cotton) What chemical fertilizers did you purchase? - DAP",1.112319,0,0,0
+"f1_8c_qty","(Cotton) What qty of - DAP - did you purchase? -kg",.6902989,0,0,0
+"f1_8c_rstotal","(Cotton) What is the total expenditure on - DAP?",.7731941,0,0,0
+"f1_8c_use_qty","(Cotton) What is the amount of DAP being used? -kg",.1426153,0,0,0
+"f1_8d","(Cotton) What chemical fertilizers did you purchase? - MoP",.8646674,0,0,0
+"f1_8d_qty","(Cotton) What qty of - MoP - did you purchase? -kg",.7211497,0,0,0
+"f1_8d_rstotal","(Cotton) What is the total expenditure on - MoP?",1.217848,0,0,0
+"f1_8d_use_qty","(Cotton) What is the amount of MoP being used? -kg",.6162969,0,0,0
+"f1_8e","(Cotton) What chemical fertilizers did you purchase? - npkgrade1",2.583699,1,1,1
+"f1_8e_qty","(Cotton) What qty of - npkgrade1 - did you purchase? -kg",1.980814,0,1,1
+"f1_8e_rstotal","(Cotton) What is the total expenditure on - npkgrade1?",1.705615,0,0,1
+"f1_8e_use_qty","(Cotton) What is the amount of npkgrade1 being used? -kg",2.018888,0,1,1
+"f1_8g1","(Cotton) What chemical fertilizers did you purchase? - other1",2.200857,0,1,1
+"f1_8g1_qty","(Cotton) What qty of - other1 - did you purchase? -kg",2.172661,0,1,1
+"f1_8g1_rstotal","(Cotton) What is the total expenditure on - other1?",.4676492,0,0,0
+"f1_8g1_use_qty","(Cotton) What is the amount of other1 being used? -kg",2.156037,0,1,1
+"f1_8g2","(Cotton) What chemical fertilizers did you purchase? - other2",1.000468,0,0,0
+"f1_8g2_qty","(Cotton) What qty of - other2 - did you purchase? -kg",1.000468,0,0,0
+"f1_8g2_rstotal","(Cotton) What is the total expenditure on - other2?",1.000468,0,0,0
+"f1_8g2_use_qty","(Cotton) What is the amount of other2 being used? -kg",1.000468,0,0,0
+"f1_10_apps","(Cotton) No. of chemical fertilizer apps for cotton in K'10",.354468,0,0,0
+"f1_10_hhtotal","(Cotton) Total hh labour days for cotton chemical fert",1.540486,0,0,0
+"f1_10_hiredtotal","(Cotton) Total hired labour days for cotton chem fert",1.097408,0,0,0
+"f1_10_wage","(Cotton) Daily wage for hired labour for cotton chem fert",.1327145,0,0,0
+"f1_10_rstotal","(Cotton) Daily wage for hired labour for cotton chem fert",1.036214,0,0,0
+"f1_11","(Cotton) Did you use organic fert for cotton in K'11?",1.645239,0,0,0
+"f1_12a","(Cotton) Did you purchase manure/compost?",.6270066,0,0,0
+"f1_12a_kilo","(Cotton) What is the amount of manure/compost used- kg?",1.475205,0,0,0
+"f1_12b","(Cotton) Did you purchase biofertilizer?",2.003713,0,1,1
+"f1_12b_kilo","(Cotton) What is the amount of biofertilizer used- kg?",1.646101,0,0,1
+"f1_12c","(Cotton) Did you purchase vermicompost?",1.31337,0,0,0
+"f1_12d","(Cotton) Did you purchase cake?",.6503333,0,0,0
+"f1_12d_kilo","(Cotton) What is the amount of cake used- kg?",1.94372,0,0,1
+"f1_13_apps","(Cotton) No. of organic fert apps for cotton in K'11",1.480286,0,0,0
+"f1_13_hhtotal","(Cotton) Total hh labour days for cotton organic fert",.7928579,0,0,0
+"f1_13_hiredtotal","(Cotton) Total hired labour days for cotton org fert",1.066086,0,0,0
+"f1_13_wage","(Cotton) Daily wage for hired labour for cotton org fert",1.079761,0,0,0
+"f1_13_rstotal","(Cotton) Total labor cost for hired labour for cotton org fert",1.188962,0,0,0
+"f1_1_1_1","(Cotton Fertilizers 1) Is your most imp source past experience?",.5330262,0,0,0
+"f1_1_1_3","(Cotton Fertilizers 1) Is your most imp source cell phone based info?",6.75592,1,1,1
+"f1_1_1_6","(Cotton Fertilizers 1) Is your most imp source NGOs?",1.000468,0,0,0
+"f1_1_1_7","(Cotton Fertilizers 1) Is your most imp source other farmers?",.6355751,0,0,0
+"f1_1_1_8","(Cotton Fertilizers 1) Is your most imp source agro shops?",1.725122,0,0,1
+"f1_1_2_1","(Cotton Fertilizers 2) Is your most imp source past experience?",.3741975,0,0,0
+"f1_1_2_2","(Cotton Fertilizers 2) Is your most imp source TV program?",1.416856,0,0,0
+"f1_1_2_3","(Cotton Fertilizers 2) Is your most imp source cell phone based info?",2.457467,0,1,1
+"f1_1_2_7","(Cotton Fertilizers 2) Is your most imp source other farmers?",2.680171,1,1,1
+"f1_1_2_8","(Cotton Fertilizers 2) Is your most imp source agro shops?",.7264646,0,0,0
+"f1_source_1","(Cotton Fertilizers) Is your most imp source past_experience?",.3272923,0,0,0
+"f1_source_2","(Cotton Fertilizers) Is your most imp source TV?",1.416856,0,0,0
+"f1_source_3","(Cotton Fertilizers) Is your most imp source cell_phone_info?",7.244001,1,1,1
+"f1_source_6","(Cotton Fertilizers) Is your most imp source NGOs?",1.000468,0,0,0
+"f1_source_7","(Cotton Fertilizers) Is your most imp source other_farmers?",1.54194,0,0,0
+"f1_source_8","(Cotton Fertilizers) Is your most imp source agro_shops?",1.727396,0,0,1
+"f1_7_1","(Cotton) Purchased fertilizer for cotton in K'11",1.137702,0,0,0
+"f1_7_2","(Cotton) Reused fertilizer for cotton in K'11",1.734058,0,0,1
+"f1_7_3","(Cotton) Purchased/Reused fertilizer for cotton in K'11",.215819,0,0,0
+"f1_c_total_cost","(Cotton) Total Chemical fertilizer expenditure on cotton in K'11",.095991,0,0,0
+"f1_u_d_cost","(Cotton) Total UREA and DAP expenditure on cotton in K'11",1.005742,0,0,0
+"f1_8a_use","(Cotton) Did you use urea?",.7609114,0,0,0
+"f1_8b_use","(Cotton) Did you use ammonium_sulfate?",1.62275,0,0,0
+"f1_8c_use","(Cotton) Did you use DAP?",.5249851,0,0,0
+"f1_8d_use","(Cotton) Did you use MoP?",1.151043,0,0,0
+"f1_8e_use","(Cotton) Did you use npkgrade1?",2.402154,0,1,1
+"f1_8g1_use","(Cotton) Did you use other1?",1.448923,0,0,0
+"f1_8g2_use","(Cotton) Did you use other2?",.8923651,0,0,0
+"f1_12a_use","used manure",.2179313,0,0,0
+"f1_12b_use","used biofert",2.003335,0,1,1
+"f1_12d_use","used castor cake",1.205096,0,0,0
+"G_correct","Total correct answers for general ag questions",.0335857,0,0,0
+"C_correct","Total correct answers for Cotton",1.041641,0,0,0
+"W_correct","Total correct answers for Wheat",.3438407,0,0,0
+"J_correct","Total correct answers for Cumin",.1019587,0,0,0
+"overall_correct","Total correct answers for all the sections",.5950592,0,0,0
+"G4","Which essential plant nutrient does UREA contain?",.3597073,0,0,0
+"G8","Which is the bst fertilizer for adding phosphorus in the soil?",.8793285,0,0,0
+"G9","Which is the bst fertilizer for adding potash in the soil?",.5610598,0,0,0
+"G10","Which is the bst fertilizer for adding sulphur in the soil?",.6106809,0,0,0
+"C5","Do you know what a pheromone trap is?",.3700205,0,0,0
+"C6","What is the use of the pheromone trap in agriculture?",.1436154,0,0,0
+"W1","Optimum time of timely sowing of wheat: 10- 25 Nov",.6199487,0,0,0
+"W2","Late sowing planting date: 10-15 Dec",.5682282,0,0,0
+"W4","Which wheat diease affecs the grain qualitly and thus price of wheat? - Black po",1.301225,0,0,0
+"W5","Which variety of wheat is recommended in Gujarat for Late Sowing?",.4257272,0,0,0
+"W7","What is the recommended dose of nitrogen in irrigated wheat?",.4096871,0,0,0
+"W8","What is the recommended dose of phosphorus in irrigated wheat?",.6112615,0,0,0
+"J1","Which newly recommended varity of cumin is wilt-reistant?",1.762449,0,0,1
+"J2","What is the best time for sowing cumin?",2.543596,0,1,1
+"J6","What is the recommended dose of Nitrogen for cumin?",.828487,0,0,0
+"d21","Does this farmer grow cotton?",.3829182,0,0,0
+"d22","Does this farmer grow wheat?",.6770296,0,0,0
+"d23","Does this farmer grow cumin?",.6988685,0,0,0
+"c3_1","(Cumin) Did you solicit or receive advice for planting cumin?",.3099118,0,0,0
+"c3_21","(Cumin) What were the important sources for this advice? - First",2.279647,0,1,1
+"c3_22","(Cumin) What were the important sources for this advice? - Second",.8308826,0,0,0
+"c3_3","(Cumin) Did you plant cumin last rabi?",.6988685,0,0,0
+"c3_5a","(Cumin) What was the total area you planted? - Acres",.3884384,0,0,0
+"c3_6","(Cumin) Do you treat your soil before cumin planting?",1.035191,0,0,0
+"c3_7a","(Cumin) How did you treat your soil? - Add organic manure",1.764838,0,0,1
+"c3_7b","(Cumin) How did you treat your soil? - Clean the soil from harvest",1.48608,0,0,0
+"c3_7c","(Cumin) How did you treat your soil? - Ploughing/Furrowing/Pulverizing",1.094243,0,0,0
+"c3_7d","(Cumin) How did you treat your soil? - Leveling the soil",1.230547,0,0,0
+"c3_7e","(Cumin) How did you treat your soil? - Preparing irrigation bed/furrows",1.332561,0,0,0
+"c3_9","(Cumin) How many times did you irrigate your Cumin crop in last Rabi?",.9756387,0,0,0
+"c3_10_rstotal","(Cumin) Total cost for irrigation in R'11",.5019755,0,0,0
+"c3_10_rsunit","(Cumin) Cost per irrigation in R'11",1.584379,0,0,0
+"c3_10_diesel","(Cumin) Diesel cost of irrigation in R'11",2.43851,0,1,1
+"c3_10_lightbill","(Cumin) Light cost of irrigation in R'11",.4067625,0,0,0
+"c3_21_1","(Cumin General 1) Is your most imp source past experience?",.0034036,0,0,0
+"c3_21_3","(Cumin General 1) Is your most imp source cell phone based info?",5.492845,1,1,1
+"c3_21_6","(Cumin General 1) Is your most imp source NGOs?",1.000468,0,0,0
+"c3_21_7","(Cumin General 1) Is your most imp source other farmers?",2.730693,1,1,1
+"c3_21_8","(Cumin General 1) Is your most imp source agro shops?",.1937494,0,0,0
+"c3_22_1","(Cumin General 2) Is your most imp source past experience?",.6366248,0,0,0
+"c3_22_2","(Cumin General 2) Is your most imp source TV program?",1.000468,0,0,0
+"c3_22_3","(Cumin General 2) Is your most imp source cell phone based info?",.9997672,0,0,0
+"c3_22_7","(Cumin General 2) Is your most imp source other farmers?",.4421881,0,0,0
+"c3_22_8","(Cumin General 2) Is your most imp source agro shops?",.2238616,0,0,0
+"c3_source_1","(Cumin General) Is your most imp source past_experience?",.5061595,0,0,0
+"c3_source_2","(Cumin General) Is your most imp source TV?",1.000468,0,0,0
+"c3_source_3","(Cumin General) Is your most imp source cell_phone_info?",5.589114,1,1,1
+"c3_source_6","(Cumin General) Is your most imp source NGOs?",1.000468,0,0,0
+"c3_source_7","(Cumin General) Is your most imp source other_farmers?",2.368551,0,1,1
+"c3_source_8","(Cumin General) Is your most imp source agro_shops?",.2946776,0,0,0
+"c3_irrigation_cost","(Cumin) Final irrigation cost for cumin in R'11-12",.5019755,0,0,0
+"c2_1","(Wheat) Did you solicit or receive advice for planting wheat in Rabi 11-12?",1.498016,0,0,0
+"c2_21","(Wheat) What were the important sources for this advice? - First",1.889118,0,0,1
+"c2_22","(Wheat) What were the important sources for this advice? - Second",.3224759,0,0,0
+"c2_3","(Wheat) Did you plant wheat in Rabi 11-12?",.6770296,0,0,0
+"c2_5a","(Wheat) What was the total area you planted? - Acres",1.457636,0,0,0
+"c2_6","(Wheat) Do you treat your soil before wheat planting?",.4531326,0,0,0
+"c2_7a","(Wheat) How did you treat your soil? - Add organic manure",.5609203,0,0,0
+"c2_7b","(Wheat) How did you treat your soil? - Clean the soil from harvest",.4382867,0,0,0
+"c2_7c","(Wheat) How did you treat your soil? - Ploughing/Furrowing/Pulverizing",.136822,0,0,0
+"c2_7d","(Wheat) How did you treat your soil? - Leveling the soil",1.004309,0,0,0
+"c2_7e","(Wheat) How did you treat your soil? - Preparing irrigation bed/furrows",.6856459,0,0,0
+"c2_10","(Wheat) How many times did you irrigate your wheat crop in last Rabi?",.7973179,0,0,0
+"c2_11_rstotal","(Wheat) Total cost for irrigation in Rabi",.804054,0,0,0
+"c2_11_rsunit","(Wheat) Cost per irrigation in Rabi",.4065926,0,0,0
+"c2_11_diesel","(Wheat) Diesel cost of irrigation in Rabi",.9840563,0,0,0
+"c2_11_lightbill","(Wheat) Light cost of irrigation in Rabi",.648571,0,0,0
+"c2_9_1","(Wheat) Have you grown irrigated wheat in the last Rabi?",.6787262,0,0,0
+"c2_9_2","(Wheat) Have you grown unirrigated wheat in the last Rabi?",.0034036,0,0,0
+"c2_21_1","(Wheat General 1) Is your most imp source past experience?",.7034969,0,0,0
+"c2_21_3","(Wheat General 1) Is your most imp source cell phone based info?",4.292633,1,1,1
+"c2_21_6","(Wheat General 1) Is your most imp source NGOs?",1.000468,0,0,0
+"c2_21_7","(Wheat General 1) Is your most imp source other farmers?",.4842116,0,0,0
+"c2_21_8","(Wheat General 1) Is your most imp source agro shops?",.7034969,0,0,0
+"c2_22_1","(Wheat General 2) Is your most imp source past experience?",.9997672,0,0,0
+"c2_22_2","(Wheat General 2) Is your most imp source TV program?",.9997672,0,0,0
+"c2_22_3","(Wheat General 2) Is your most imp source cell phone based info?",1.000468,0,0,0
+"c2_22_6","(Wheat General 2) Is your most imp source NGOs?",.9997672,0,0,0
+"c2_22_7","(Wheat General 2) Is your most imp source other farmers?",.3741975,0,0,0
+"c2_22_8","(Wheat General 2) Is your most imp source agro shops?",.9969785,0,0,0
+"c2_source_1","(Wheat General) Is your most imp source past_experience?",.9969785,0,0,0
+"c2_source_2","(Wheat General) Is your most imp source TV?",.9997672,0,0,0
+"c2_source_3","(Wheat General) Is your most imp source cell_phone_info?",3.439826,1,1,1
+"c2_source_6","(Wheat General) Is your most imp source NGOs?",.4495955,0,0,0
+"c2_source_7","(Wheat General) Is your most imp source other_farmers?",.3517023,0,0,0
+"c2_source_8","(Wheat General) Is your most imp source agro_shops?",1.210725,0,0,0
+"c2_irrigation_cost","(Wheat) Final irrigation cost for wheat in Rabi 11-12",.804054,0,0,0
+"c1_1","(Cotton) Did you solicit or receive advice for planting cotton in K'11?",2.600728,1,1,1
+"c1_21","(Cotton) What were the important sources for this advice? - First",5.720062,1,1,1
+"c1_22","(Cotton) What were the important sources for this advice? - Second",2.52175,0,1,1
+"c1_3","(Cotton) Did you plant cotton in K'11?",.3829182,0,0,0
+"c1_5a","(Cotton) What was the total area you planted? - Acres",1.669741,0,0,1
+"c1_6","(Cotton) Do you treat your soil before cotton planting?",.180368,0,0,0
+"c1_7a","(Cotton) How did you treat your soil? - Add organic manure",1.070498,0,0,0
+"c1_7b","(Cotton) How did you treat your soil? - Clean the soil from harvest",1.966583,0,1,1
+"c1_7c","(Cotton) How did you treat your soil? - Ploughing",.6228844,0,0,0
+"c1_7d","(Cotton) How did you treat your soil? - Leveling the soil",.6453172,0,0,0
+"c1_9","(Cotton) Did you irrigate your cotton crop in K'11?",.9373873,0,0,0
+"c1_10","(Cotton) How many times did you irrigate your cotton crop in K'11?",.6928299,0,0,0
+"c1_11_rstotal","(Cotton) Total cost for irrigation in K'11",1.671597,0,0,1
+"c1_11_rsunit","(Cotton) Cost per irrigation in K'11",.5825294,0,0,0
+"c1_11_diesel","(Cotton) Diesel cost of irrigation in K'11",.1085329,0,0,0
+"c1_11_lightbill","(Cotton) Light cost of irrigation in K'11",1.029237,0,0,0
+"c1_21_1","(Cotton General) Is your most imp source past experience -1?",.5726582,0,0,0
+"c1_21_3","(Cotton General) Is your most imp source cell phone based info -1?",6.743443,1,1,1
+"c1_21_7","(Cotton General) Is your most imp source other farmers -1?",.9453884,0,0,0
+"c1_21_8","(Cotton General) Is your most imp source agro shops -1?",.8316183,0,0,0
+"c1_21_9","(Cotton General) Is your most imp source trader/commission agents -1?",1.000468,0,0,0
+"c1_22_1","(Cotton General) Is your most imp source past experience -2?",2.142807,0,1,1
+"c1_22_2","(Cotton General) Is your most imp source TV program -2?",.9997672,0,0,0
+"c1_22_3","(Cotton General) Is your most imp source cell phone based info -2?",3.635132,1,1,1
+"c1_22_7","(Cotton General) Is your most imp source other farmers -2?",1.043964,0,0,0
+"c1_22_8","(Cotton General) Is your most imp source agro shops -2?",1.073286,0,0,0
+"c1_source_1","(Cotton General) Is your most imp source past_experience?",1.725122,0,0,1
+"c1_source_2","(Cotton General) Is your most imp source TV?",.9997672,0,0,0
+"c1_source_3","(Cotton General) Is your most imp source cell_phone_info?",7.769066,1,1,1
+"c1_source_7","(Cotton General) Is your most imp source other_farmers?",1.354748,0,0,0
+"c1_source_8","(Cotton General) Is your most imp source agro_shops?",1.33806,0,0,0
+"c1_source_9","(Cotton General) Is your most imp source trader_commission_agents?",1.000468,0,0,0
+"c1_irrigation_cost","(Cotton) Final irrigation cost for cotton in K'11",1.671597,0,0,1
+"b2_2","How much total land do you own? - Area in Acres",1.752901,0,0,1
+"a1_1_age","How old are you now?",.4762148,0,0,0
+"a1_2","Can you read and/or write?",2.241465,0,1,1
+"a1_3","Highest level of education of respondent",2.493599,0,1,1
+"a1_4","Main occupation of respondent",.5087076,0,0,0
+"a1_9","Do you hold or have held in the past any positin of authority",.5629547,0,0,0
+"edu_years","Years of Education",.3150561,0,0,0
+"a0_2_age","Age of household head",.4521231,0,0,0
+"a0_3","Is the household head male or female?",.371613,0,0,0
+"a0_6","Are you the head of the household?",.711378,0,0,0
+"a0_8","Is the respondent male or female?",1.074986,0,0,0
+"overall","Total correct answers for all questions",.5950592,0,0,0
+"fert","Total correct answers for fertilizer related questions",.4784625,0,0,0
+"btpest","",.662995,0,0,0
+"whitefly","",1.139541,0,0,0
+"pest","Total correct answers for pesticide related questions",.7143528,0,0,0
+"totcost_pest_rs","total pesticide cost",1.225679,0,0,0
+"totcost_fert_rs","total fertilizer cost",.4912042,0,0,0
+"totcost_irrig_rs","total irrigation cost",1.345547,0,0,0
+"totcost_labor_rs","total hired labor cost",1.699782,0,0,1
+"totcost_input_rs","total input cost",1.251122,0,0,0
+"ag_profit","Profit after subtracting hired and hh labor costs",1.526546,0,0,0
+"number_calls","Total number of calls listened to by each respondent",5.82329,1,1,1
+"avg_duration_call","Average duration listened to by a respondent",18.84065,1,1,1
+"avg_qanda_number","No.of times questions and answers forum was accessed",4.844359,1,1,1
+"avg_anna_number","No.of times announcements forum was accessed",11.56247,1,1,1
+"avg_push_calls_number","No.of times push calls were listened to",12.199,1,1,1
+"avg_duration_push_call","Average duration of a push call listened to by a respondent",10.4624,1,1,1
+"avg_extent_push_call","(mean) avg_extent_push_call",17.33136,1,1,1
+"avg_radioa_number","No.of times radio forum was accessed",6.612259,1,1,1
+"avg_expa_number","No.of times experiences forum was accessed",8.092028,1,1,1
+"total_duration_qa","Total duration spent listening to Q&A section",8.571564,1,1,1
+"total_duration","Total duration of calling in time",8.923252,1,1,1
+"total_duration_ann","Total duration spent listening to Announcements",7.213911,1,1,1
+"total_duration_rad","Total duration spent listening to Radio section",6.699588,1,1,1
+"total_duration_exp","Total duration spent listening to Experiences section",6.16861,1,1,1
+"call","Number of calls made to listen to content",8.472873,1,1,1
+"qa_call","Number times Q&A accessed on unique calls",8.037615,1,1,1
+"exp_call","Number times Experience section accessed on unique calls",6.793626,1,1,1
+"ann_call","Number times Announce accessed on unique calls",7.527393,1,1,1
+"rad_call","Number times radio section accessed on unique calls",6.497317,1,1,1
+"avg_listen_time","Avg. listen time",18.83765,1,1,1
+"extent_push_call_10","Dummy for listening to 0-10% of the push call content",19.15326,1,1,1
+"extent_push_call_15","Dummy for listening to 10-15% of the push call content",10.24807,1,1,1
+"extent_push_call_50","Dummy for listening to 15-50% of the push call content",12.9561,1,1,1
+"extent_push_call_75","Dummy for listening to 50-75% of the push call content",3.336813,1,1,1
+"extent_push_call_100","Dummy for listening to 75-100% of the push call content",3.014452,1,1,1
+"called_ao","Called in to the AO to listen to content",36.99597,1,1,1
+"question","Number of questions asked",10.28542,1,1,1
+"response","Number of responses to questions",6.885091,1,1,1
+"response_ann","Number of responses to announcements",8.63464,1,1,1
+"push_duration","(sum) duration",72.79445,1,1,1
+"push_call","(sum) push_call",9.766779,1,1,1
+"maxdur","Maximum push call time, 44 calls up to 8/12, 5 mins on avg",159.8949,1,1,1
+"pct_listened","Percentage of total push call time listened to",72.79445,1,1,1
+"pct_10","Listened to greater than 10% of total push call time",157.2461,1,1,1
+"pct_25","Listened to greater than 75% of total push call time",76.05505,1,1,1
+"pct_50","Listened to greater than 50% of total push call time",35.9301,1,1,1
+"pct_75","Listened to greater than 75% of total push call time",11.81104,1,1,1
+"pct_90","Listened to greater than 90% of total push call time",1.4148,0,0,0
+"used_ao","Used AO- only till Midline",75.17566,1,1,1
+"n_call","Number of calls-Midline",9.536097,1,1,1
+"duration","Total AO usage - Midline",9.453857,1,1,1
+"zero_access","Called AO, did not access any features - Midline",9.742599,1,1,1
+"record","recorded content on AO- Midline",12.89044,1,1,1
+"r_exp"," recorded experience- Midline",3.771602,1,1,1
+"avg_call","Avg. call duration- Midline",22.94981,1,1,1
+"asked_q","Asked a question",21.64923,1,1,1
+"res_q","Responded to a question",8.88648,1,1,1
+"res_a","Responded to an announcement",12.50257,1,1,1
+"shared_exp","Shared agricultural experience",3.771602,1,1,1
+"totcost_seed_rs","",2.218882,0,1,1
+"p3_hired_lab_cost","",1.609802,0,0,0
+"p3_hh_lab_cost","",.428638,0,0,0
+"p2_hired_lab_cost","",.3360688,0,0,0
+"p2_hh_lab_cost","",.550392,0,0,0
+"p1_hired_lab_cost","",1.640833,0,0,0
+"p1_hh_lab_cost","",1.198987,0,0,0
+"f3_hired_lab_cost","",.7517611,0,0,0
+"f3_hh_lab_cost","",.5760509,0,0,0
+"f2_hired_lab_cost","",.4944628,0,0,0
+"f2_hh_lab_cost","",1.292467,0,0,0
+"f1_hired_lab_cost","",1.097408,0,0,0
+"f1_hh_lab_cost","",1.540486,0,0,0
+"totcost_hired_lab_cotton","",1.335281,0,0,0
+"totcost_hired_lab_wheat","",.5126092,0,0,0
+"totcost_hired_lab_cumin","",1.190192,0,0,0
+"totcost_hh_lab_cotton","",1.289437,0,0,0
+"totcost_hh_lab_wheat","",1.244243,0,0,0
+"totcost_hh_lab_cumin","",.5153354,0,0,0
+"totcost_hired_lab","",1.4231,0,0,0
+"totcost_hh_lab","",1.185976,0,0,0
+"totcost_lab","",.1818715,0,0,0
+"talk_month","spoke to a more than once a month about ag issues",.3662077,0,0,0
+"nonrelat_peer","spoke to a peer who is not a relative",.5156935,0,0,0
+"non_neighbor","spoke to a peer who is not a neighbor",.1558978,0,0,0
+"peer_phone","spoke to a peer on the phone",.0224293,0,0,0
+"avg_know","average knowledge of peers",1.141732,0,0,0
+"use_hiredlabor_chem","Used hired labor for chemical fertilizers",.4832529,0,0,0
+"use_hiredlabor_org","Used hired labor for organic fertilizer",1.393496,0,0,0
+"use_hiredlabor_total","Used hired labor for fertilizers (chemical and organic)",.7167508,0,0,0
+"biofert_purch","",2.003713,0,1,1
+"biofert_cotton_purch","",2.003713,0,1,1
+"seed_advice","Asked for advice on seeds (general)",1.64854,0,0,1
+"seed_purchase","Purchased recommended variety of seed (general)",.6929386,0,0,0
+"seed_use","Used recommended variety of seed (general)",1.227937,0,0,0
+"seed_qty","Qty of recommended seeds purchased - Kgs (general)",1.354339,0,0,0
+"seed_cost","Total spent on recommended seeds (general)",2.486585,0,1,1
+"ycotton_l","log of cotton yield",.9721944,0,0,0
+"ycumin_l","log of cumin yield",.0085973,0,0,0
+"ywheat_l","log of wheat yield",.0189407,0,0,0
+"rcotton_l","log of cotton revenue",.97618,0,0,0
+"rwheat_l","log of wheat revenue",1.509256,0,0,0
+"rcumin_l","log of cumin revenue",.0815349,0,0,0
+"rpulses_l","log of pulses revenue",.5978824,0,0,0
+"crop_inc_l","",.5604145,0,0,0
+"ag_profit_netlabor","",1.526849,0,0,0
+"p3_8c6","(Cumin) Did you purchase -hexaconazole?",.3994871,0,0,0
+"p3_8c6_qty","(Cumin) What was the qty of hexaconazole purchased in K'11",1.046956,0,0,0
+"p3_8c6_rstotal","(Cumin) What was the total cost in Rs. of pesticide hexaconazole?",1.525208,0,0,0
+"p3_8c6_qtyused","(Cumin) How much of hexaconazole did you use in K'11?",1.046956,0,0,0
+"p2_7c1","(Wheat) Did you purchase -endosulpan?",.9997672,0,0,0
+"p2_7c1_qty","(Wheat) What was the qty of endosulpan purchased in K'11",.9997672,0,0,0
+"p2_7c1_rstotal","(Wheat) What was the total cost in Rs. of pesticide endosulpan?",.9997672,0,0,0
+"p2_7c1_qtyused","(Wheat) How much of endosulpan did you use in K'11?",.9997672,0,0,0
+"p2_7c2","(Wheat) Did you purchase -quinalphos?",.3061334,0,0,0
+"p2_7c2_qty","(Wheat) What was the qty of quinalphos purchased in K'11",.181578,0,0,0
+"p2_7c2_rstotal","(Wheat) What was the total cost in Rs. of pesticide quinalphos?",.3544769,0,0,0
+"p2_7c2_qtyused","(Wheat) How much of quinalphos did you use in K'11?",.181578,0,0,0
+"p2_7c1_use","used endosulphan",.9997898,0,0,0
+"p2_7c2_use","used quinalphos",.309374,0,0,0
+"f2_8f1_use","(Wheat) Did you use micronutrient1 last rabi?",.5885661,0,0,0
+"f2_8f2_use","(Wheat) Did you use micronutrient2 last rabi?",.5885661,0,0,0
+"bas_cotton","(Cotton) What was the total area you planted? - Acres",1.813022,0,0,1
+"c1_3_11","Planted Cotton (2011)",.1650673,0,0,0
+"c1_5a_11","Cotton Acres Planted (2011)",1.255667,0,0,0
+"c2_3_11","Planted Wheat (2011)",.1439135,0,0,0
+"c2_5a_11","Wheat Acres Planted (2011)",.477013,0,0,0
+"c3_3_11","Planted Cumin (2011)",1.179969,0,0,0
+"c3_5a_11","Cumin Acres Planted (2011)",.2292853,0,0,0
+"w1_1","for W1(BDM) - did you understand the game? 1-Yes (then proceed), 2- No (explain ",.8828218,0,0,0
+"w1_2","for W1(BDM) - are you willing to play this game? 1. Yes (continue with game), 2-",.8600465,0,0,0
+"buy_490","willing to pay at 490 1(Yes) 0(No)",1.041239,0,0,0
+"buy_390","willing to pay at 390 1(Yes) 0(No)",.3024925,0,0,0
+"buy_290","willing to pay at 290 1(Yes) 0(No)",.197824,0,0,0
+"buy_240","willing to pay at 240 1(Yes) 0(No)",.5084356,0,0,0
+"buy_190","willing to pay at 190 1(Yes) 0(No)",.1805459,0,0,0
+"buy_140","willing to pay at 140 1(Yes) 0(No)",.1241787,0,0,0
+"buy_90","willing to pay at 90 1(Yes) 0(No)",.8922098,0,0,0
+"buy_40","willing to pay at 40 1(Yes) 0(No)",.5009368,0,0,0
+"w1a_9","for W1(BDM) - this is a final checkpoint since Rs. 40 is our lower price. 1- Yes",1.334349,0,0,0
+"bdmbidprice","for W1(BDM) - bid price (values can be 40,90,140,190,240,290,390 or 490)",1.909172,0,0,1
+"bdmofferprice","for W1(BDM) - offer price (values can be 40,90,140,190 or 240)",2.04815,0,1,1
+"w1b_3","for W1(BDM) - Is the offer price less than the bid price? 1-Yes 2-No",.4871974,0,0,0
+"w1b_4","for W1(BDM) - Does the respondent purchase AO? 1-Yes (the purchase amount equals",.6823226,0,0,0
+"tioliofferprice","Offered TIOLI",.9813576,0,0,0
+"tiolibuy_ind","tioli: 0 Don't buy, 1 Buy",.1008786,0,0,0
+"w2_2","for W2(TIOLI)- does the respondent purchase AO? 1-Yes (the purchase amount equal",.9469689,0,0,0
+"p1","Why did you choose not to purchase AO or why is your demand Rs. 0? 1. Too expens",.1727679,0,0,0
+"p2_1","How much money did the surveyor collect from the respondent i.e. purchase price ",.2602499,0,0,0
+"m_wtp","",1.376555,0,0,0
+"bought_ao","",2.09237,0,1,1
+"total_input_cost","",1.276248,0,0,0
+"profit","",1.549206,0,0,0
+"total_usage","",22.75922,1,1,1
+"ao","assigned to a treatment group (either ao or aoe)",1.47e+17,1,1,1
